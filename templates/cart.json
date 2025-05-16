@@ -1,0 +1,27 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-cart",
+      "blocks": {
+        "bogos_io_free_gift_cart_message_view_z6D3dj": {
+          "type": "shopify:\/\/apps\/bogos-io-free-gift\/blocks\/cart-message-view\/0432bba6-720a-4e95-be5a-b868386f7aa6",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "bogos_io_free_gift_cart_message_view_z6D3dj"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "show_cart_note": false,
+        "show_order_weight": false,
+        "show_shipping_text": true,
+        "show_accelerated_buttons": false,
+        "show_shipping_estimator": false
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

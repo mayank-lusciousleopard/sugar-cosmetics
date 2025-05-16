@@ -1,0 +1,92 @@
+{
+  "type": "header",
+  "name": "Header group",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "message_Qcbck6": {
+          "type": "message",
+          "settings": {
+            "text": "<a href=\"\/collections\/beauty-offer\" target=\"_blank\" title=\"Beauty offer\">HURRY: BUY 2, GET 1 FREE is LIVE!<\/a>"
+          }
+        },
+        "message-1": {
+          "type": "message",
+          "disabled": true,
+          "settings": {
+            "text": "<a href=\"https:\/\/www.sugarcosmetics.com\/collections\/offer-1500\" title=\"https:\/\/www.sugarcosmetics.com\/collections\/offer-1500\"> Grab the Deal! ₹500 OFF on orders above ₹1499<\/a>"
+          }
+        },
+        "message_D37ndP": {
+          "type": "message",
+          "settings": {
+            "text": "<a href=\"https:\/\/in.sugarcosmetics.com\" title=\"https:\/\/in.sugarcosmetics.com\">Get a FREE 'Mettle Liquid Lipstick' on orders above ₹499!<\/a>"
+          }
+        },
+        "message_VHtdNp": {
+          "type": "message",
+          "settings": {
+            "text": "<a href=\"https:\/\/www.sugarcosmetics.com\/collections\/all-makeup\" title=\"https:\/\/www.sugarcosmetics.com\/collections\/all-makeup\">Use code: TREAT10 and enjoy 10% OFF on all orders<\/a>"
+          }
+        },
+        "message_xcaebm": {
+          "type": "message",
+          "disabled": true,
+          "settings": {
+            "text": "<a href=\"https:\/\/www.sugarcosmetics.com\/collections\/free-gift\" title=\"https:\/\/www.sugarcosmetics.com\/collections\/free-gift\">Valentine’s Special! Set of 3 La La Love Lipsticks Free on Rs.1099!<\/a>"
+          }
+        }
+      },
+      "block_order": [
+        "message_Qcbck6",
+        "message-1",
+        "message_D37ndP",
+        "message_VHtdNp",
+        "message_xcaebm"
+      ],
+      "settings": {
+        "color_scheme": "scheme-3",
+        "enable_sticky": false,
+        "autoplay": true,
+        "cycle_speed": 5,
+        "desktop_font_size": 11,
+        "mobile_font_size": 10
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "enable_sticky": true,
+        "hide_on_scroll": false,
+        "show_separation_border": true,
+        "reduce_padding": true,
+        "logo": "shopify:\/\/shop_images\/SUGAR_Cosmetics_Logo.png",
+        "logo_max_width": 140,
+        "logo_mobile_max_width": 90,
+        "menu": "main-menu",
+        "sidebar_menu": "main-menu",
+        "menu_open_trigger": "hover",
+        "menu_text_font": "heading",
+        "enable_search": true,
+        "sidebar_color_scheme": "",
+        "sidebar_text_font": "heading",
+        "sidebar_show_dividers": true,
+        "sidebar_open_second_level_menus": false,
+        "layout": "logo_left_navigation_center",
+        "show_icons": true,
+        "show_country_selector": false,
+        "show_country_name": false,
+        "show_country_flag": false,
+        "show_locale_selector": false,
+        "transparent_header_text_color": "#ffffff",
+        "transparent_logo": "shopify:\/\/shop_images\/Sugal_white_logo_horizontal_orientation.png"
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_title": true,
+        "page_width": "xs"
+      }
+    },
+    "custom_liquid_3W7FBF": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom_liquid.presets.custom_liquid.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "<a href=\"https:\/\/bit.ly\/4jqsuiV\" target=\"_blank\">\n  <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0906\/2558\/files\/NIKE-X-SUGAR_MICROSITE_desktop_01.jpg?v=1745923876?v=1745922134\" alt=\"NikeXSUGAR\">\n  <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0906\/2558\/files\/NIKE-X-SUGAR_MICROSITE_desktop_02.jpg?v=1745923877\" alt=\"NikeXSUGAR\">\n  <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0906\/2558\/files\/NIKE-X-SUGAR_MICROSITE_desktop_03.jpg?v=1745923875\" alt=\"NikeXSUGAR\">\n  <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0906\/2558\/files\/NIKE-X-SUGAR_MICROSITE_desktop_04_bb96d2af-0df0-4e9d-8c6a-9b2606a6e4ac.jpg?v=1746519895\" alt=\"NikeXSUGAR\">\n<\/a>",
+        "text_alignment": "end"
+      }
+    },
+    "custom_liquid_iYDk7F": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom_liquid.presets.custom_liquid.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "<a href=\"https:\/\/www.instagram.com\/trysugar\" target=\"_blank\">\n  <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0906\/2558\/files\/NIKE-X-SUGAR_MICROSITE_desktop_05.jpg?v=1745922209\" alt=\"Nike\">\n<\/a><a href=\"https:\/\/bit.ly\/4jqsuiV\" target=\"_blank\"> <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0906\/2558\/files\/NIKE-X-SUGAR_MICROSITE_desktop_06.jpg?v=1745923876\" alt=\"Nike\">\n<\/a>",
+        "text_alignment": "center"
+      }
+    },
+    "faq_aRkxkU": {
+      "type": "faq",
+      "blocks": {
+        "question_9bqqE4": {
+          "type": "question",
+          "settings": {
+            "question": "1. Eligibility",
+            "answer": "<ul><li>Is a female.<\/li><li>Is 18 years of age or older at the time of entry.<\/li><li>Resides in India.<\/li><li>Comply with these Terms & Conditions<\/li><\/ul>"
+          }
+        },
+        "question_4Ljctm": {
+          "type": "question",
+          "settings": {
+            "question": "2. Contest Period",
+            "answer": "<ul><li>The contest commences on <strong>24\/04\/2025<\/strong> and concludes on <strong>1\/05\/2025 at 11:59pm<\/strong>. Entries submitted outside this period will not be considered.<\/li><\/ul>"
+          }
+        },
+        "question_8ct8EU": {
+          "type": "question",
+          "settings": {
+            "question": "3. Entry Requirements",
+            "answer": "<ul><li>Participants must submit a screenshot of their run route, completed within the seven days preceding their entry.<\/li><li>Each participant may submit only one entry. Multiple entries will result in disqualification.<\/li><\/ul>"
+          }
+        },
+        "question_6xRMjf": {
+          "type": "question",
+          "settings": {
+            "question": "4. Winner Selection",
+            "answer": "<ul><li>Ten (10) winners will be chosen. <\/li><li>Each winner will receive one (1) pass to the Nike After Dark Tour event.<\/li><li>Prizes are non-transferable and cannot be exchanged for cash or other products. <\/li><\/ul>"
+          }
+        },
+        "question_ijhKpt": {
+          "type": "question",
+          "settings": {
+            "question": "5. Prize Collection",
+            "answer": "<ul><li>Winners must collect their event bibs in person on the day of the expo, as specified by SUGAR.<\/li><li>Failure to collect the bibs as instructed may result in forfeiture of the prize.<\/li><\/ul>"
+          }
+        },
+        "question_R69VQb": {
+          "type": "question",
+          "settings": {
+            "question": "6. Travel and Expenses",
+            "answer": "<ul><li>All travel, accommodation, and any other expenses incurred to attend the event are the sole responsibility of the winners.<\/li><li>SUGAR will not reimburse any costs associated with attending the event.<\/li><\/ul>"
+          }
+        },
+        "question_yNFxke": {
+          "type": "question",
+          "settings": {
+            "question": "7. Event Cancellation",
+            "answer": "<ul><li>In the event of cancellation or rescheduling of the Nike After Dark Tour, SUGAR holds no responsibility and will not provide compensation or alternative prizes.<\/li><\/ul>"
+          }
+        },
+        "question_LJaRVq": {
+          "type": "question",
+          "settings": {
+            "question": "8. Use of Likeness",
+            "answer": "<ul><li>By participating, entrants grant SUGAR the right to use their name, image, and likeness for promotional purposes related to this contest and future marketing activities, without additional compensation.<\/li><\/ul>"
+          }
+        },
+        "question_bACQXe": {
+          "type": "question",
+          "settings": {
+            "question": "9. Safety and Liability",
+            "answer": "<ul><li>Participants acknowledge that they are responsible for their own safety during the event.<\/li><li>SUGAR is not liable for any injuries, losses, or damages arising from participation in the contest or the event.<\/li><\/ul>"
+          }
+        },
+        "question_A6pfTU": {
+          "type": "question",
+          "settings": {
+            "question": "10. General Conditions",
+            "answer": "<ul><li>SUGAR reserves the right to modify, suspend, or terminate the contest at any time without prior notice.<\/li><li>All decisions made by SUGAR regarding the contest are final and binding.<\/li><li>SUGAR reserves the right to disqualify any participant found to be violating these Terms & Conditions or engaging in fraudulent activities.<\/li><\/ul>"
+          }
+        },
+        "question_YjJ6cV": {
+          "type": "question",
+          "settings": {
+            "question": "11. Compliance with Nike's Event Terms",
+            "answer": "<ul><li>All participants must comply with the official terms and conditions of the Nike After Dark Tour event, as specified by Nike. These terms are available on Nike's official website for After Dark Tour Event or through authorized communication channels. Failure to adhere to Nike's event terms may result in disqualification from the event and forfeiture of any prizes or entitlements.<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "question_9bqqE4",
+        "question_4Ljctm",
+        "question_8ct8EU",
+        "question_6xRMjf",
+        "question_ijhKpt",
+        "question_R69VQb",
+        "question_yNFxke",
+        "question_LJaRVq",
+        "question_bACQXe",
+        "question_A6pfTU",
+        "question_YjJ6cV"
+      ],
+      "name": "t:sections.faq.presets.faq.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "show_categories": false,
+        "subheading": "",
+        "title": "<strong>SUGAR x Nike AfterDark Tour Contest – Terms & Conditions<\/strong>",
+        "content": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "custom_liquid_3W7FBF",
+    "custom_liquid_iYDk7F",
+    "faq_aRkxkU"
+  ]
+}

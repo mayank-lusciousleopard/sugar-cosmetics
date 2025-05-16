@@ -1,0 +1,284 @@
+{
+  "sections": {
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "category": {
+          "type": "category",
+          "settings": {
+            "title": "General",
+            "icon": "picto-calendar",
+            "icon_width": 16
+          }
+        },
+        "question-1": {
+          "type": "question",
+          "settings": {
+            "question": "I am having trouble accessing the site?",
+            "answer": "<p>You may want to refresh your browser. If you are still experiencing any difficulty accessing the website, please check to make sure your internet connection is working properly. If it is not, please contact your internet provider. If you are able to connect but still having problems, you may need to clean out your temporary Internet files, cookies or cache<\/p>"
+          }
+        },
+        "question-2": {
+          "type": "question",
+          "settings": {
+            "question": "Where can I purchase SUGAR products?",
+            "answer": "<p>You can purchase SUGAR product on https:\/www.sugarcosmetics.com or through our Android\/iOS Mobile App. We will soon be expanding our presence online and offline. We will update you as soon as SUGAR reaches out your nearest store. Check this place for more updates.<\/p>"
+          }
+        },
+        "question-3": {
+          "type": "question",
+          "settings": {
+            "question": "How do I use SUGAR products?",
+            "answer": "<p>Once you have shortlisted a product, please click on it & you will find a small write-up with instructions on \"how to use the product\". If it is still not helpful please drop us a mail at hello@sugarcosmetics.com<\/p>"
+          }
+        },
+        "question_hdxXtp": {
+          "type": "question",
+          "settings": {
+            "question": "What types of ingredients are used in SUGAR products?",
+            "answer": "<p>We use the safest ingredients to manufacture our products. Our current range of products is Formaldehyde, Mineral Oil, Paraffin, Phenoxyethanols and Volatile Cyclomethicones (D4, D5, D6) free. All products are dermatologically tested. To know the entire ingredient list of individual products please click on the respective product on our site.<\/p>"
+          }
+        },
+        "question_GKKtjG": {
+          "type": "question",
+          "settings": {
+            "question": "Does SUGAR test on animals?",
+            "answer": "<p>All our Products are 100% cruelty-free and not tested on animals.<\/p>"
+          }
+        },
+        "category_brURwT": {
+          "type": "category",
+          "settings": {
+            "title": "Shipping",
+            "icon": "picto-delivery-truck",
+            "icon_width": 16
+          }
+        },
+        "question_HMawLg": {
+          "type": "question",
+          "settings": {
+            "question": "What is the estimated time of delivery?",
+            "answer": "<p>Your faves will reach you in 2-5 business days. A few areas may face delay due to Government-mandated restrictions.<\/p>"
+          }
+        },
+        "question_6YKapg": {
+          "type": "question",
+          "settings": {
+            "question": "Are there any shipping charges applicable on my order?",
+            "answer": "<p>A minimal fee of Rs.99 is applicable on orders below Rs.500.<\/p>"
+          }
+        },
+        "question_tkidkP": {
+          "type": "question",
+          "settings": {
+            "question": "Where can I track my order?",
+            "answer": "<p>You can log in to your SUGAR account and track your order in 'My Orders' section. We will also send you an email with the tracking details once the order is shipped.<\/p>"
+          }
+        },
+        "question_g4k7YA": {
+          "type": "question",
+          "settings": {
+            "question": "Can I amend my order?",
+            "answer": "<p>Once the order is placed we cannot make any changes in the products.<\/p>"
+          }
+        },
+        "question_PUt6td": {
+          "type": "question",
+          "settings": {
+            "question": "How can I update my address \/ contact number for my ongoing order?",
+            "answer": "<p>You drop an email to hello@sugarcosmetics.com within 12 to 24 hours of placing the order.<\/p>"
+          }
+        },
+        "category_NTtaNw": {
+          "type": "category",
+          "settings": {
+            "title": "Cancellation",
+            "icon": "picto-not-allowed",
+            "icon_width": 16
+          }
+        },
+        "question_fpdxAf": {
+          "type": "question",
+          "settings": {
+            "question": "How do I cancel an order I just placed?",
+            "answer": "<p>You can drop an email at hello@sugarcosmetics.com within 12 to 24 hours of placing the order.<\/p>"
+          }
+        },
+        "category_tbFHP7": {
+          "type": "category",
+          "settings": {
+            "title": "Returns",
+            "icon": "picto-return",
+            "icon_width": 16
+          }
+        },
+        "question_zFqKR4": {
+          "type": "question",
+          "settings": {
+            "question": "I did not like the product I ordered. How do I create a return request?",
+            "answer": "<p>You can drop in a mail to us at hello@sugarcosmetics.com within 14 days of receiving your order.<\/p>"
+          }
+        },
+        "question_kBnkbX": {
+          "type": "question",
+          "settings": {
+            "question": "What is the Product Replacement \/ Return Policy?",
+            "answer": "<p>You can drop in a mail to us hello@sugarcosmetics.com within 14 days of receiving your product and reverse pickup will be arranged. Once the product reaches to us we will help you with the refund or replacement.<\/p>"
+          }
+        },
+        "question_iFweH7": {
+          "type": "question",
+          "settings": {
+            "question": "How do I make a return or exchange?",
+            "answer": "<p>Please drop us a mail on hello@sugarcosmetics.com with product details and the cause of returning the product. We will be happy to assist you.<\/p>"
+          }
+        },
+        "question_bhmzRd": {
+          "type": "question",
+          "settings": {
+            "question": "What is the refund procedure for the canceled or returned order?",
+            "answer": "<p>Canceled Order: In case of a prepaid order - the amount will be refunded back to the account from which the payment was initiated, within 3-5 working days. Returned Order : (a) In case of a prepaid order - the amount will be refunded back to the account from which the payment was initiated, within 3-5 working days, (b) In case of a cash on delivery order - the amount will be refunded in the form of a cheque or bank transfer for which certain details need to be provided over email (hello@sugarcosmetics.com), the amount will be refunded back to the account from which it was paid within 3-5 working days.<\/p><p>How to register a complaint for a defective product?<\/p><p><\/p>"
+          }
+        },
+        "question_xBfybR": {
+          "type": "question",
+          "settings": {
+            "question": "How to register a complaint for a defective product?",
+            "answer": "<p>In case of one or more defective products in your order, please register a single complaint by dropping us a mail on hello@sugarcosmetics.com with product details, as the return\/replacement will be arranged only once.<\/p>"
+          }
+        },
+        "category_yFRbyg": {
+          "type": "category",
+          "settings": {
+            "title": "Account",
+            "icon": "picto-avatar",
+            "icon_width": 16
+          }
+        },
+        "question_cHccjW": {
+          "type": "question",
+          "settings": {
+            "question": "How do I register for my Account?",
+            "answer": "<p>Go to www.sugarcosmetics.com,Click on Register link from the top, fill out your first name, last name, email address and password and then click on create Once you register, you'll need to confirm your email address. We'll send you an email with a verification to confirm your account. Once your account is verified the account gets activated on the website.<\/p>"
+          }
+        },
+        "question_AYTQCw": {
+          "type": "question",
+          "settings": {
+            "question": "How can I update my profile?",
+            "answer": "<p>Log into your sugarcosmetics.com account you will see view address link on click of it you get a link of add new address. On click of Add new address you will get a form to enter your new address fill out the required details and click on add address to save new address. You can also update and delete your address from edit and delete link.<\/p>"
+          }
+        },
+        "question_8XiWj3": {
+          "type": "question",
+          "settings": {
+            "question": "Is my personal information secure?",
+            "answer": "<p>Yes, We use latest security and encryption techniques to ensure the security of your person information. We do not sell or rent your personal information to third parties for their marketing purposes. We view protection of users' privacy as a very important community principle. We understand clearly that you and your information are one of our most important assets.<\/p>"
+          }
+        },
+        "question_XqaNN4": {
+          "type": "question",
+          "settings": {
+            "question": "I forgot my user ID or my password?",
+            "answer": "<p>To request a new password, Go to Forgot password under login section on www.sugarcosmetics.com enter your and e-mail address and select Submit. You will then receive an e-mail message with a link to reset your password. Regarding User ID currently we only use e-mail address for registration.<\/p>"
+          }
+        },
+        "question_VY4btN": {
+          "type": "question",
+          "settings": {
+            "question": "My payment is deducted but I didn't receive the order confirmation.",
+            "answer": "<p>This can be due to internet connectivity or tech issue. Please drop an email to hello@sugarcosmetics.com and we would surely assist you with your payment status.<\/p>"
+          }
+        },
+        "question_FffBNJ": {
+          "type": "question",
+          "settings": {
+            "question": "How can I redeem the Rewards?",
+            "answer": "<p>You can log into your SUGAR account and will find a bottom left corner, click on that and you will see an option to 'Spend Points'. Once you hit the tab, you'll receive a code that you can use on your next purchase. Also, the coupon codes are valid for 1 year from the date of redemption.<\/p>"
+          }
+        },
+        "question_RpEmrH": {
+          "type": "question",
+          "settings": {
+            "question": "Are there any offers?",
+            "answer": "<p>For offers, you can check our website\/in-app banners or visit the OFFERS page. You can also subscribe to our Newsletter to get updates on the upcoming offers and launches.<\/p>"
+          }
+        },
+        "category_yAdmey": {
+          "type": "category",
+          "settings": {
+            "title": "Promo",
+            "icon": "picto-coupon",
+            "icon_width": 16
+          }
+        },
+        "question_UQCaEp": {
+          "type": "question",
+          "settings": {
+            "question": "What are the Terms & Conditions for the GWP?",
+            "answer": "<p>Two offers cannot be clubbed. Gifts once chosen cannot be exchanged. Offer only application on the GWP collection page.<\/p>"
+          }
+        },
+        "question_6QhMWh": {
+          "type": "question",
+          "settings": {
+            "question": "What are the Terms & Condtions for the coupon code SWEET500?",
+            "answer": "<p>Coupon code SWEET500 is applicable only for the first time users. Code applicable on a minimum cart value of Rs 1500. Applicable only on the SUGAR App. Two offers cannot be clubbed.<\/p>"
+          }
+        },
+        "question_dVfJYE": {
+          "type": "question",
+          "settings": {
+            "question": "What are the T&C for Triple Treat Offer?",
+            "answer": "<p>Offer is applicable only on Triple Treat collection page. Two offers cannot be clubbed. Offer once chosen cannot be exchanged.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "category",
+        "question-1",
+        "question-2",
+        "question-3",
+        "question_hdxXtp",
+        "question_GKKtjG",
+        "category_brURwT",
+        "question_HMawLg",
+        "question_6YKapg",
+        "question_tkidkP",
+        "question_g4k7YA",
+        "question_PUt6td",
+        "category_NTtaNw",
+        "question_fpdxAf",
+        "category_tbFHP7",
+        "question_zFqKR4",
+        "question_kBnkbX",
+        "question_iFweH7",
+        "question_bhmzRd",
+        "question_xBfybR",
+        "category_yFRbyg",
+        "question_cHccjW",
+        "question_AYTQCw",
+        "question_8XiWj3",
+        "question_XqaNN4",
+        "question_VY4btN",
+        "question_FffBNJ",
+        "question_RpEmrH",
+        "category_yAdmey",
+        "question_UQCaEp",
+        "question_6QhMWh",
+        "question_dVfJYE"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "show_categories": false,
+        "subheading": "Need help?",
+        "title": "Frequently Asked Questions",
+        "content": ""
+      }
+    }
+  },
+  "order": [
+    "faq"
+  ]
+}

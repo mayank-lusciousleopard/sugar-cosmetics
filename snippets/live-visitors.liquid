@@ -1,0 +1,82 @@
+<style>
+  .live_visitors {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding-left: 13px;
+    border: 1px solid #cfcfcf;
+    padding: 9px;
+  }
+
+  .live_visitors::before {
+    position: absolute;
+    content: "";
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: rgba(33, 182, 70, 1);
+    box-shadow: 0 0 0 0 rgba(33, 182, 70, 1);
+    animation: pulse-green 2s infinite;
+  }
+
+  @keyframes pulse-green {
+    0% {
+      transform: scale(0.95);
+      box-shadow: 0 0 0 0 rgba(33, 182, 70, 0.7);
+    }
+    70% {
+      transform: scale(1);
+      box-shadow: 0 0 0 10px rgba(33, 182, 70, 0);
+    }
+    100% {
+      transform: scale(0.95);
+      box-shadow: 0 0 0 0 rgba(33, 182, 70, 0);
+    }
+  }
+</style>
+
+<p class="live_visitors no-js-hidden">
+  <span id="visitors_count" style="padding-left: 16px; margin-right: -5px;"></span> People are viewing this product right now.
+</p>
+
+
+<script>
+  let base_min_visitors = 5000;  // Default minimum visitors
+  let base_max_visitors = 6000; // Default maximum visitors
+  let delay = 4000;              // Update interval (ms)
+  let variation = 40;            // Max variation per update
+
+  function getVisitorRange() {
+    let hour = new Date().getHours();
+    if (hour >= 1 && hour < 8) { // Between 1 AM and 8 AM
+      return {
+        min: Math.floor(base_min_visitors / 4),
+        max: Math.floor(base_max_visitors / 4)
+      };
+    }
+    return { min: base_min_visitors, max: base_max_visitors };
+  }
+
+  function getRandomVisitorCount(min, max) {
+    return Math.floor(Math.random() * (max - min + 1) + min);
+  }
+
+  function updateVisitorCount() {
+    let { min, max } = getVisitorRange();
+    
+    // Adjust the count slightly instead of randomizing completely
+    let change = Math.floor(Math.random() * (variation * 2 + 1)) - variation;
+    visitors_count = Math.min(max, Math.max(min, visitors_count + change));
+
+    document.getElementById("visitors_count").innerHTML = visitors_count;
+  }
+
+  // Initialize visitor count
+  let { min, max } = getVisitorRange();
+  let visitors_count = getRandomVisitorCount(min, max);
+  document.getElementById("visitors_count").innerHTML = visitors_count;
+
+  // Update visitor count periodically
+  setInterval(updateVisitorCount, delay);
+</script>

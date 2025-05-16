@@ -1,0 +1,59 @@
+<a class="site-nav__link site-nav__link--icon st-search-icon hidden-mobile st-autocomplete-open-btn">    
+<svg aria-hidden="true" fill="none" focusable="false" width="24" class="header__nav-icon icon icon-search" viewBox="0 0 24 24">
+      <path d="M10.364 3a7.364 7.364 0 1 0 0 14.727 7.364 7.364 0 0 0 0-14.727Z" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10"></path>
+      <path d="M15.857 15.858 21 21.001" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"></path>
+    </svg>
+
+
+</a>
+<a class="site-nav__link site-nav__link--icon st-input-close-btn hidden-mobile" style="display:none;">
+<svg aria-hidden="true" focusable="false" fill="none" width="16" class="icon icon-close" viewBox="0 0 16 16">
+      <path d="m1 1 14 14M1 15 15 1" stroke="currentColor" stroke-width="1.5"></path>
+    </svg>
+
+</a>
+
+<style>
+.st-search-box.hidden-mobile:focus-visible ,
+  .st-search-box .st-search-input:focus-visible{
+    outline: none;
+    box-shadow: none;
+}
+.st-search-icon {
+    cursor: pointer !important;
+    padding-right: 5px;
+    display: flex;
+    align-items: center;
+}
+  .st-search-icon  .modal__toggle-open {
+    display: flex;
+    width: 20px;
+    height: 20px;
+}
+ .st-search-close-btn {
+    cursor: pointer !important;
+    padding-right: 5px;
+    display: flex;
+    align-items: center;
+}
+.st-search-close-btn svg.icon.icon-close {
+    display: flex;
+    width: 24px;
+    height: 16px;
+}
+/* @media only screen and (max-width:1024px) {
+  .st-search-icon {
+    display: none !important;
+  }
+} */
+@media only screen and (max-width: 768px){ 
+  .st-search-icon svg {
+    width: 23px;
+    height: 25px;
+}
+  .st-search-icon.hidden-mobile, .st-input-close-btn.hidden-mobile {
+    display: none;
+  }
+}
+
+</style>

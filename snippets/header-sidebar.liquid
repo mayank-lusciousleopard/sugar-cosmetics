@@ -1,0 +1,217 @@
+{% # Kwikpass changes - [Starts] %}
+<script>
+  function autoLogin (){
+        document.getElementById('kwik-pass-text').textContent = '{{ 'header.general.account' | t }}';
+      }
+      window.addEventListener('user-loggedin', function(event) {
+         const { token } = event?.detail;
+         if (token){
+           autoLogin();
+         }
+      });
+    document.addEventListener('DOMContentLoaded',function () {
+      var userToken = localStorage.getItem('KWIKSESSIONTOKEN');
+      if (userToken){
+        autoLogin();
+      }
+  })
+</script>
+{% # Kwikpass changes - [Ends] %}
+
+{%- comment -%}
+----------------------------------------------------------------------------------------------------------------------
+HEADER SIDEBAR COMPONENT
+----------------------------------------------------------------------------------------------------------------------
+
+This snippet the navigation sidebar for the header. It is used for both the mobile menu and for the desktop menu when
+the merchant configures the drawer mode.
+
+********************************************
+Supported variables
+********************************************
+
+* menu: the menu to render
+* color_scheme: the color scheme to use for the sidebar
+* show_dividers: whether dividers are shown for the collapsible
+* open_second_level_menus: if true, second level dropdown are open by default
+{%- endcomment -%}
+
+{%- comment -%}
+IMPLEMENTATION NOTE: while being a drawer, the sidebar has a completely different structure for the content. We are
+therefore using a different structure for the Shadow DOM template
+{%- endcomment -%}
+<template id="header-sidebar-template">
+  <div part="base">
+    <div part="overlay"></div>
+
+    <div part="content">
+      <header part="header">
+        <dialog-close-button class="contents">
+          <button type="button" part="close-button tap-area" aria-label="{{ 'general.accessibility.close' | t | escape }}">
+            {%- render 'icon' with 'close', width: 16 -%}
+          </button>
+        </dialog-close-button>
+      </header>
+
+      <div part="panel-list">
+        <slot name="main-panel"></slot>
+
+        {%- if menu.levels > 0 -%}
+          <slot name="collapsible-panel"></slot>
+        {%- endif -%}
+      </div>
+    </div>
+  </div>
+</template>
+
+<header-sidebar id="sidebar-menu" class="header-sidebar drawer drawer--sm color-scheme color-scheme--{{ color_scheme.id }}" template="header-sidebar-template" open-from="left">
+  {%- comment -%}We are using a Shadow DOM where each panel has a slot, so we can directly render each level individually{%- endcomment -%}
+
+  {%- comment -%}Panel 1 is the first level{%- endcomment -%}
+  <div class="header-sidebar__main-panel" slot="main-panel">
+    <div class="header-sidebar__scroller">
+      <ul class="header-sidebar__linklist {% if show_dividers %}divide-y{% endif %} unstyled-list" role="list">
+        {%- for link in menu.links -%}
+          <li>
+            {%- if link.links.size > 0 -%}
+              <button type="button" class="header-sidebar__linklist-button {% if section.settings.sidebar_text_font == 'heading' %}h6{% endif %}" aria-controls="header-panel-{{ forloop.index }}" aria-expanded="false">
+                {{- link.title -}}
+                {%- render 'icon' with 'chevron-right', width: 12, direction_aware: true -%}
+              </button>
+            {%- else -%}
+              <a href="{{ link.url }}" class="header-sidebar__linklist-button {% if section.settings.sidebar_text_font == 'heading' %}h6{% endif %}">
+                {{- link.title -}}
+              </a>
+            {%- endif -%}
+          </li>
+        {%- endfor -%}
+      </ul>
+    </div>
+
+    {%- liquid
+      if section.settings.show_country_selector and localization.available_countries.size > 1
+        assign show_country_selector = true
+      endif
+
+      if section.settings.show_locale_selector and localization.available_languages.size > 1
+        assign show_locale_selector = true
+      endif
+    -%}
+
+    {%- if shop.customer_accounts_enabled or show_country_selector or show_locale_selector -%}
+      <div class="header-sidebar__footer">
+        {%- if shop.customer_accounts_enabled -%}
+          {% # Kwikpass changes - [Starts] %}
+          {% comment %}
+          <a href="{% if customer %}{{ routes.account_url }}{% else %}{{ routes.account_login_url }}{% endif %}" class="text-with-icon smallcaps sm:hidden">
+            {%- render 'icon' with 'account', width: 20 -%}
+            
+            {%- if customer -%}
+              {{- 'header.general.account' | t -}}
+            {%- else -%}
+              {{- 'header.general.login' | t -}}
+            {%- endif -%}
+          </a>
+        {% endcomment %}
+          <a href="javascript:void(0);" class="text-with-icon smallcaps sm:hidden" id="kp-account" onclick="kpHandleLogin('/account');">
+          <svg width="20" height="20" viewBox="0 0 27 27" fill="none" xmlns="http://www.w3.org/2000/svg" id="svgkp">
+      <path d="M22.9129 12.935L13.7571 23.0474C13.5348 23.2929 13.1284 23.1084 13.1669 22.7794L14.0816 14.9731H10.6991C10.4034 14.9731 10.2484 14.6219 10.4478 14.4035L20.3133 3.59739C20.5589 3.32834 20.9984 3.58134 20.8891 3.92887L18.2354 12.3664H22.6607C22.9557 12.3664 23.1109 12.7163 22.9129 12.935Z" fill="#FEA203"/>
+      <path id="svgkp-path" fill-rule="evenodd" clip-rule="evenodd" d="M16.6079 5.35819C16.4805 5.1933 16.3421 5.03582 16.1932 4.8869C15.2702 3.96387 14.0183 3.44531 12.7129 3.44531C11.4075 3.44531 10.1556 3.96387 9.2326 4.8869C8.30957 5.80993 7.79102 7.06183 7.79102 8.36719C7.79102 9.67255 8.30957 10.9244 9.2326 11.8475C9.48368 12.0986 9.75909 12.3197 10.0533 12.5086L11.0235 11.4503C10.7335 11.2914 10.4649 11.0911 10.227 10.8531C9.56766 10.1938 9.19727 9.29959 9.19727 8.36719C9.19727 7.43479 9.56766 6.54057 10.227 5.88127C10.8863 5.22196 11.7805 4.85156 12.7129 4.85156C13.6453 4.85156 14.5395 5.22196 15.1988 5.88127C15.3636 6.04604 15.5103 6.22549 15.6377 6.41654L16.6079 5.35819ZM20.6413 18.6497L19.6746 19.7132C20.1676 20.4122 20.4473 21.2264 20.4473 22.0781V23.8359C20.4473 24.2243 20.7621 24.5391 21.1504 24.5391C21.5387 24.5391 21.8535 24.2243 21.8535 23.8359V22.0781C21.8535 20.7863 21.4016 19.6103 20.6413 18.6497ZM12.3111 17.5078H10.3026C7.27113 17.5078 4.97852 19.6394 4.97852 22.0781V23.8359C4.97852 24.2243 4.66372 24.5391 4.27539 24.5391C3.88707 24.5391 3.57227 24.2243 3.57227 23.8359V22.0781C3.57227 18.6922 6.67684 16.1016 10.3026 16.1016H12.4885L12.3111 17.5078Z" fill="currentColor" stroke="currentColor"/>
+      </svg>
+          <span id="kwik-pass-text">
+           Log in
+          </span>
+          </a>
+          {% # Kwikpass changes - [Ends] %}
+
+        {%- endif -%}
+
+        {%- if show_country_selector or show_locale_selector -%}
+          <div class="localization-selectors">
+            {%- if show_country_selector -%}
+              {%- render 'localization-selector', type: 'country', placement: 'top-start', show_country_name: section.settings.show_country_name, show_country_flag: section.settings.show_country_flag, id_prefix: 'header-sidebar' -%}
+            {%- endif -%}
+
+            {%- if show_country_selector and show_locale_selector -%}
+              <span class="localization-selectors__separator" aria-hidden="true"></span>
+            {%- endif -%}
+
+            {%- if show_locale_selector -%}
+              {%- render 'localization-selector', type: 'locale', placement: 'top-start', id_prefix: 'header-sidebar' -%}
+            {%- endif -%}
+          </div>
+        {%- endif -%}
+      </div>
+    {%- endif -%}
+  </div>
+
+  {%- comment -%}Panel 2 holds all the second levels{%- endcomment -%}
+  {%- if menu.levels > 0 -%}
+    <header-sidebar-collapsible-panel class="header-sidebar__collapsible-panel" slot="collapsible-panel">
+      <div class="header-sidebar__scroller">
+        {%- for link in menu.links -%}
+          {%- if link.links.size > 0 -%}
+            <div id="header-panel-{{ forloop.index }}" class="header-sidebar__sub-panel" hidden>
+              <button type="button" class="header-sidebar__back-button link-faded {% if show_dividers %}is-divided{% endif %} text-with-icon {% if section.settings.sidebar_text_font == 'heading' %}h6{% endif %} md:hidden" data-action="close-panel">
+                {%- render 'icon' with 'chevron-left', width: 12, direction_aware: true -%}
+                {{- link.title -}}
+              </button>
+
+              <ul class="header-sidebar__linklist {% if show_dividers %}divide-y{% endif %} unstyled-list" role="list">
+                {%- for sub_link in link.links -%}
+                  <li>
+                    {%- if sub_link.links.size > 0 -%}
+                      <accordion-disclosure>
+                        <details class="accordion__disclosure group" {% if open_second_level_menus %}open{% endif %}>
+                          <summary class="header-sidebar__linklist-button {% if section.settings.sidebar_text_font == 'heading' %}h6{% endif %}">
+                            {{- sub_link.title -}}
+                            <span class="animated-plus group-expanded:rotate" aria-hidden="true"></span>
+                          </summary>
+
+                          <div class="header-sidebar__nested-linklist">
+                            {%- for sub_sub_link in sub_link.links -%}
+                              <a href="{{ sub_sub_link.url }}" class="link-faded-reverse">{{ sub_sub_link.title }}</a>
+                            {%- endfor -%}
+                          </div>
+                        </details>
+                      </accordion-disclosure>
+                    {%- else -%}
+                      <a href="{{ sub_link.url }}" class="header-sidebar__linklist-button {% if section.settings.sidebar_text_font == 'heading' %}h6{% endif %}">
+                        {{- sub_link.title -}}
+                      </a>
+                    {%- endif -%}
+                  </li>
+                {%- endfor -%}
+              </ul>
+
+              {%- liquid
+                assign link_title_downcase = link.title | strip | downcase
+                assign mega_menu_block = ''
+
+                for block in section.blocks
+                  assign menu_item_downcase = block.settings.menu_item | strip | downcase
+
+                  if menu_item_downcase == link_title_downcase
+                    assign mega_menu_block = block
+                    break
+                  endif
+
+                endfor
+              -%}
+
+              {%- capture mega_menu_content -%}
+                {%- render 'mega-menu-images', context: 'sidebar', block: mega_menu_block -%}
+              {%- endcapture -%}
+
+              {%- if mega_menu_content != blank -%}
+                <div class="header-sidebar__promo scroll-area bleed md:unbleed">
+                  {{- mega_menu_content -}}
+                </div>
+              {%- endif -%}
+            </div>
+          {%- endif -%}
+        {%- endfor -%}
+      </div>
+    </header-sidebar-collapsible-panel>
+  {%- endif -%}
+</header-sidebar>

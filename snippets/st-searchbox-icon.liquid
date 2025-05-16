@@ -1,0 +1,77 @@
+<div class="Header__Icon Icon-Wrapper st-search-icon-wrapper hidden-desktop">
+  <span class="site-nav__link site-nav__link--icon st-search-icon st-search-icon-wrapper">
+<svg aria-hidden="true" fill="none" focusable="false" width="24" class="header__nav-icon icon icon-search" viewBox="0 0 24 24">
+      <path d="M10.364 3a7.364 7.364 0 1 0 0 14.727 7.364 7.364 0 0 0 0-14.727Z" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10"></path>
+      <path d="M15.857 15.858 21 21.001" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"></path>
+    </svg>
+  </span>
+  <span class="site-nav__link site-nav__link--icon st-input-close-btn" style="display:none;">
+    <svg class="Icon Icon--close" role="presentation" viewBox="0 0 16 14">
+    <path d="M15 0L1 14m14 0L1 0" stroke="currentColor" fill="none" fill-rule="evenodd"></path>
+  </svg>
+  </span>
+</div>
+<style class="st-searchicon-styles">
+
+  span.site-nav__link.site-nav__link--icon.st-input-close-btn {
+    width: 52px;
+  }
+
+  
+  
+  span.st-desktop-searchbar-container, span.st-mobile-searchbar-container {
+    display: flex;
+  }
+  
+
+  
+  .st-search-icon-wrapper span {
+    cursor: pointer
+  }
+  
+  .site-nav__link.site-nav__link--icon.st-search-icon {
+    color: var(--header-text-color);
+  }
+
+  
+  .grid__wrapper script.st-searchicon-script, .grid__wrapper style.st-searchicon-styles {
+    display: none;
+  }
+  
+span.st-input-close-btn svg {
+    fill: #000000;
+    stroke-width: 1.5px;
+    height: 17px;
+    width: 17px;
+}
+  
+  span.site-nav__link.site-nav__link--icon.st-input-close-btn svg#Capa_1 {
+    fill: #000000;          
+    width: 20px;
+    height: 25px;
+  }
+  
+  span.st-input-close-btn {
+    padding: 0 !important;
+    margin: 0 !important;
+    width: 19px;
+    height: 17px;
+  }
+
+@media only screen and (min-width:769px) {
+  .st-search-icon-wrapper.hidden-desktop{
+  display: none;
+}
+}
+  
+  @media only screen and (max-width:834px) {          
+    
+    .hidden-tablet-and-up .st-search-icon svg {
+      display: none;
+    }
+  
+    span.st-input-close-btn {
+      margin: 0;
+    }
+  }
+</style>

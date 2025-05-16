@@ -1,0 +1,1239 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "image_X7mmjM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MAH-Set-of-3-at-1499-GWP-3200x1200_1.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/MAH-Set-of-3-at-1499-GWP-1200x1600_2.jpg",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "shopify:\/\/collections\/deal-for-you",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "shopify:\/\/collections\/deal-for-you",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": ""
+          }
+        },
+        "video_Yxj78X": {
+          "type": "video",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/AOF-Dewy Foundation-3200x1200.mp4",
+            "mobile_video": "shopify:\/\/files\/videos\/AOF-Dewy Foundation-1200x1600.mp4",
+            "allow_sound": true,
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "shopify:\/\/products\/ace-of-face-dewy-foundation",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": ""
+          }
+        },
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PIS-HP-3200x1200.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/PIS-HP-1200x1600.jpg",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center-end text-end",
+            "desktop_text_position": "sm:place-self-end-start sm:text-start",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "https:\/\/www.sugarcosmetics.com\/products\/sugar-partner-in-shine-transferproof-lip-gloss",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 0,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": ""
+          }
+        },
+        "image_EyEDbd": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/500-off-on-1499-HP-3200x1200_2.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/500-off-on-1499-HP-1200x1600_2.jpg",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "https:\/\/www.sugarcosmetics.com\/collections\/Special-deal",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": ""
+          }
+        },
+        "video_LVMDdK": {
+          "type": "video",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/DAT-30Secs-3200X1200 (1).mp4",
+            "mobile_video": "shopify:\/\/files\/videos\/DAT-30Secs-1200X1600 (5).mp4",
+            "allow_sound": true,
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "shopify:\/\/products\/sugar-drop-a-tint-lip-oil",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "https:\/\/www.sugarcosmetics.com\/products\/sugar-drop-a-tint-lip-oil",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": ""
+          }
+        },
+        "image_7eridt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/New-Launch-Glide-Peptide-Lip-Treatment-HP-3200x1200_88f1692f-b14a-4efa-9313-7c56fd985103.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/New-Launch-Glide-Peptide-Lip-Treatment-HP-1200x1600_1_e6b1677a-a797-47d0-875c-21104ae6bbfb.jpg",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "https:\/\/www.sugarcosmetics.com\/products\/glide-peptide-spf50-pa-lip-treatment",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "https:\/\/www.sugarcosmetics.com\/pages\/sugar-x-nike-after-dark",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 0,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_X7mmjM",
+        "video_Yxj78X",
+        "slide-1",
+        "image_EyEDbd",
+        "video_LVMDdK",
+        "image_7eridt"
+      ],
+      "settings": {
+        "allow_transparent_header": true,
+        "show_next_section_button": false,
+        "media_size": "auto",
+        "show_initial_transition": false,
+        "autoplay": true,
+        "autoplay_pause_on_video": true,
+        "cycle_speed": 5,
+        "background": "#000000",
+        "controls_color": "#ffffff"
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_pL77qi": {
+          "type": "collection",
+          "settings": {
+            "collection": "new-launches",
+            "products_count": 8,
+            "title": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "bestsellers",
+            "products_count": 8,
+            "title": "BESTSELLERS",
+            "link_url": "shopify:\/\/collections\/bestsellers",
+            "link_text": "View All"
+          }
+        }
+      },
+      "block_order": [
+        "collection_pL77qi",
+        "collection-1"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
+    "featured_collections_kRHTTn": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_JTqyi9": {
+          "type": "collection",
+          "settings": {
+            "collection": "bestsellers",
+            "products_count": 8,
+            "title": "",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_JTqyi9"
+      ],
+      "name": "t:sections.featured_collections.presets.featured_collections.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
+    "featured_collections_Ucn9K7": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_CejUjY": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "holi-hai",
+            "products_count": 8,
+            "title": "HOLI SPECIAL!",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        },
+        "collection_RTrrPM": {
+          "type": "collection",
+          "settings": {
+            "collection": "elite-edition",
+            "products_count": 10,
+            "title": "Elite Edition",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "collection_cUtgWU": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "kit-collection",
+            "products_count": 8,
+            "title": "On-The-Go Essentials",
+            "link_url": "shopify:\/\/collections\/kit-collection",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_CejUjY",
+        "collection_RTrrPM",
+        "collection_cUtgWU"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 0.7,
+        "vertical_spacing_factor": 0.9,
+        "subheading": ""
+      }
+    },
+    "rich_text_QCeRMx": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_DhLCei": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_Q4pbfU": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_bnpYmy": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_DhLCei",
+        "heading_Q4pbfU",
+        "richtext_bnpYmy"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "slideshow_PeNia7": {
+      "type": "slideshow",
+      "blocks": {
+        "image_pLhpaE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Glitter-Sling-Bag-Offer-at-1599-LP-1600x400_985253dc-65f5-4959-a289-a7d98977c4df.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Glitter-Sling-Bag-Offer-at-1599-LP-600x300_1.jpg",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "https:\/\/www.sugarcosmetics.com\/collections\/sugar-picks",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "https:\/\/www.sugarcosmetics.com\/collections\/sugar-picks",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": ""
+          }
+        },
+        "image_MeNtcA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/500-off-on-1499-LP-1600x400_fc1d98ef-f23e-460f-b99c-75645be9e800.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/500-off-on-1499-LP-600x300_a540fc91-bd85-45f2-8e2e-f3a8303e66b1.jpg",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "https:\/\/www.sugarcosmetics.com\/collections\/Special-deal",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "shopify:\/\/collections\/special-deal",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": ""
+          }
+        },
+        "image_aAdFef": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Buy-2-Get-1_2025-LP-1600x400_c21f1bc0-9cdb-4793-b7c9-09f36fdd421f.gif",
+            "mobile_image": "shopify:\/\/shop_images\/Buy-2-Get-1_2025-LP-600x300_d67edd06-3432-44a1-905b-700198de12a2.gif",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "shopify:\/\/collections\/beauty-offer",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "https:\/\/www.sugarcosmetics.com\/collections\/beauty-offer",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 0,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": ""
+          }
+        },
+        "image_qNRzpD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Shehnaaz-Sling-Bag-GWP-at-1099-LP-1600x400.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Shehnaaz-Sling-Bag-GWP-at-1099-LP-1600x400.jpg",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "https:\/\/www.sugarcosmetics.com\/collections\/beauty-slay",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "https:\/\/www.sugarcosmetics.com\/collections\/beauty-slay",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 0,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": ""
+          }
+        },
+        "image_yhDfaC": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Teal-Trousseau-GWP-LP-1600x400_c2209a2e-12d4-4394-937a-74fc44a0aded.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Teal-Trousseau-GWP-LP-600x300_1.jpg",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "https:\/\/www.sugarcosmetics.com\/collections\/luxe-picks",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "shopify:\/\/collections\/all-makeup",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 0,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": ""
+          }
+        },
+        "image_mNVVgG": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/500-off--LP-1600x400_3.gif",
+            "mobile_image": "shopify:\/\/shop_images\/500-off--HP-1200x1600_e62ea5d1-d6aa-4fe7-8d00-d2eca40a0e88.gif",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "https:\/\/in.sugarcosmetics.com\/collections\/Special-deal",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "shopify:\/\/collections\/special-deal",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 0,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_pLhpaE",
+        "image_MeNtcA",
+        "image_aAdFef",
+        "image_qNRzpD",
+        "image_yhDfaC",
+        "image_mNVVgG"
+      ],
+      "settings": {
+        "allow_transparent_header": true,
+        "show_next_section_button": false,
+        "media_size": "auto",
+        "show_initial_transition": false,
+        "autoplay": true,
+        "autoplay_pause_on_video": true,
+        "cycle_speed": 5,
+        "background": "#000000",
+        "controls_color": "#ffffff"
+      }
+    },
+    "rich_text_m7KpDq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_c8zR7N": {
+          "type": "heading",
+          "settings": {
+            "text": "Summer essentials!",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_c8zR7N"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "slideshow_rwBFMi": {
+      "type": "slideshow",
+      "blocks": {
+        "image_B8K3Qr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Summer-Kit_25---Ads-LP-1600x400-new.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Summer-Kit_25---Ads-LP-600x300.jpg",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "https:\/\/www.sugarcosmetics.com\/products\/sweatproof-stunning-kit",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "https:\/\/www.sugarcosmetics.com\/products\/holi-day-beauty-essentials",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 0,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": ""
+          }
+        },
+        "image_acmh3W": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/POP-Holi-Kit-1399_HP_1600-X-400_1.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/POP-Holi-Kit-1399_HP_600-X-300_1.jpg",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "https:\/\/www.sugarcosmetics.com\/products\/the-ultimate-summer-carry-kit",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "https:\/\/www.sugarcosmetics.com\/products\/holi-glow-up-kit",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 0,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_B8K3Qr",
+        "image_acmh3W"
+      ],
+      "settings": {
+        "allow_transparent_header": true,
+        "show_next_section_button": false,
+        "media_size": "auto",
+        "show_initial_transition": false,
+        "autoplay": true,
+        "autoplay_pause_on_video": true,
+        "cycle_speed": 4,
+        "background": "#000000",
+        "controls_color": "#ffffff"
+      }
+    },
+    "featured_collections_Nt6fMR": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_Kk4DWh": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "holi-hai",
+            "products_count": 4,
+            "title": "HOLI SPECIAL!",
+            "link_url": "shopify:\/\/collections\/holi-hai",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_Kk4DWh"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
+    "shop-the-look": {
+      "type": "shop-the-look",
+      "blocks": {
+        "look-1": {
+          "type": "look",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Welcome-offer-10--Off-HP600x500_4.jpg",
+            "hot_spots_background": "#ffffff",
+            "product_1": "ace-of-face-foundation-stick",
+            "product_1_horizontal_position": 55,
+            "product_1_vertical_position": 30,
+            "product_2": "kohl-of-honour-intense-kajal",
+            "product_2_horizontal_position": 25,
+            "product_2_vertical_position": 40,
+            "product_3": "smudge-me-not-liquid-lipstick",
+            "product_3_horizontal_position": 65,
+            "product_3_vertical_position": 60,
+            "product_4": "sugar-signature-makeup-kit",
+            "product_4_horizontal_position": 85,
+            "product_4_vertical_position": 85
+          }
+        }
+      },
+      "block_order": [
+        "look-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "subheading": "",
+        "title": "Shop the look",
+        "content": "",
+        "popover_title": "Shop the look"
+      }
+    },
+    "scrolling_content_eeKYqE": {
+      "type": "scrolling-content",
+      "blocks": {
+        "text_yHqEL4": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<a href=\"https:\/\/www.sugarcosmetics.com\/collections\/offer-1500\" title=\"https:\/\/www.sugarcosmetics.com\/collections\/offer-1500\">🎉 Grab the Deal! ₹500 OFF on orders above ₹1499😍<\/a>"
+          }
+        }
+      },
+      "block_order": [
+        "text_yHqEL4"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "scrolling_speed": 0.3,
+        "scroll_direction": "left",
+        "pause_on_hover": true,
+        "text_font": "heading",
+        "text_font_size_mobile": 22,
+        "text_font_size_desktop": 30,
+        "section_vertical_spacing_mobile": 60,
+        "section_vertical_spacing_desktop": 20,
+        "item_horizontal_spacing_mobile": 80,
+        "item_horizontal_spacing_desktop": 90,
+        "background": "",
+        "text_color": "#e32c2b"
+      }
+    },
+    "images_with_text_scroll_Lmk9m4": {
+      "type": "images-with-text-scroll",
+      "blocks": {
+        "image_with_text_r7fLYW": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Glow-Blush-HP-Banner_1200-X-1600_1_b5d826d9-951c-4a35-9a63-edd6cf7c1a42.jpg",
+            "subheading": "<a href=\"\/products\/cloud-nine-niacinamide-glow-blush\" title=\"Cloud Nine Niacinamide Glow Blush\">Cloud Nine Niacinamide Glow Blush<\/a>",
+            "title": "Ready to take your blush game to cloud nine? ",
+            "content": "<p>Blush brighter, care deeper with our Cloud Nine Niacinamide Glow Blush that gives your cheeks the look straight out of a dream. Infused with 8 botanical oils, Niacinamide, Kojic Acid, and Vitamin C, it pampers your skin while giving you that lit-from-within flush. Just a dab of this weightless formula gives you glowing, radiant cheeks. Choose from playful shades like peachy pink or flirty raspberry, made to flatter every Indian skin tone. Glow-getter, are you in?<\/p>",
+            "link_text": "",
+            "link_url": "shopify:\/\/products\/cloud-nine-niacinamide-glow-blush",
+            "link_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_r7fLYW"
+      ],
+      "settings": {
+        "color_scheme": "scheme-fae552ae-aaf6-4450-b76a-c50842245a4b",
+        "background_image": "{{ shop.metaobjects[\"shopify--color-pattern\"][\"cloud-nine\"].image.value }}",
+        "image_position": "start",
+        "text_alignment": "center",
+        "heading_tag": "h3",
+        "overlay_color": "#ffdce2",
+        "overlay_opacity": 75
+      }
+    },
+    "rich_text_JYTnkm": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_bkM3gM": {
+          "type": "heading",
+          "settings": {
+            "text": "SUGAR INSTA",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_bkM3gM"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "1735025505b3a38173": {
+      "type": "apps",
+      "blocks": {
+        "instafeed_app_block_EPK6pE": {
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "title_size_v2": 0,
+            "alignment": "center",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": false,
+            "link_alignment": "left",
+            "link_color": "#000000",
+            "background_color": "",
+            "feed_id": "",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "instafeed_app_block_EPK6pE"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false
+      }
+    },
+    "rich_text_jrxhLm": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_3JjBWR": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "PRICE DROP",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_3JjBWR"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "slideshow_9icKmA": {
+      "type": "slideshow",
+      "blocks": {
+        "image_U8weqN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BTR-Eyeshadow-Palette-LP--1600x400---shade02_1.gif",
+            "mobile_image": "shopify:\/\/shop_images\/BTR-Eyeshadow-Palette-LP-600x300---shade02_1.gif",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "https:\/\/www.sugarcosmetics.com\/pages\/searchtap-search?q=Blend%20The%20Rules%20Eyeshadow%20Palette",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 36,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": ""
+          }
+        },
+        "image_x9xRcm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Clearance-Range-Products-LP-1600x400_2.gif",
+            "mobile_image": "shopify:\/\/shop_images\/Clearance-Range-Products-LP-600x300_2.gif",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "https:\/\/www.sugarcosmetics.com\/collections\/price-drop-1",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_U8weqN",
+        "image_x9xRcm"
+      ],
+      "disabled": true,
+      "settings": {
+        "allow_transparent_header": true,
+        "show_next_section_button": false,
+        "media_size": "auto",
+        "show_initial_transition": false,
+        "autoplay": true,
+        "autoplay_pause_on_video": true,
+        "cycle_speed": 5,
+        "background": "#000000",
+        "controls_color": "#ffffff"
+      }
+    },
+    "featured_collections_JhqhCg": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_drBnG3": {
+          "type": "collection",
+          "settings": {
+            "collection": "kriti-sanon",
+            "products_count": 8,
+            "title": "KRITI'S FAVOURITES",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_drBnG3"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
+    "featured_collections_b9GyHk": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_fJtprE": {
+          "type": "collection",
+          "settings": {
+            "collection": "sugar-play",
+            "products_count": 8,
+            "title": "SUGAR PLAY RANGE",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_fJtprE"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
+    "multiple_media_with_text_BQa3Xt": {
+      "type": "multiple-media-with-text",
+      "blocks": {
+        "video_YrtDjd": {
+          "type": "video",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/Lip Gloss-20-SQ-With Ceramides.mp4",
+            "rotation": 0
+          }
+        }
+      },
+      "block_order": [
+        "video_YrtDjd"
+      ],
+      "settings": {
+        "color_scheme": "scheme-944e7e81-e673-45cf-8371-d9aa9fc23d27",
+        "reveal_on_scroll": true,
+        "separate_section_with_border": true,
+        "media_position_desktop": "before_text",
+        "media_position_mobile": "before_text",
+        "media_layout": "overlap",
+        "media_alignment": "center",
+        "media_alignment_offset": 0,
+        "media_mobile_alignment_offset": 0,
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "<a href=\"\/products\/sugar-partner-in-shine-transferproof-lip-gloss\" title=\"Partner In Shine Transferproof Lip Gloss\"><strong>Partner In Shine Transferproof Lip Gloss<\/strong><\/a>",
+        "content": "<p>You’ve never been one to shy away from the spotlight. Well, now it’s your time to own it! SUGAR Partner In Shine Transferproof Lip Gloss is here to deliver a shine that won’t quit. Picture vibrant, long-lasting pigment that combines the glossy finish of a lip gloss with the staying power of a liquid lipstick. This beauty marvel is transferproof, waterproof and gives you a flawless, glass-like gloss that lasts up to 24 hours. The lightweight, non-sticky formula feels weightless on your lips, while ceramides, collagen and vitamin E hydrate and plump. With 15 stunning shades to complement every Indian skin tone, you’re ready to turn heads and shine all day. Unstoppable shine? It’s yours! Ready to take the spotlight and make it yours forever?<\/p>",
+        "button_1_text": "",
+        "button_1_link": "shopify:\/\/products\/sugar-partner-in-shine-transferproof-lip-gloss",
+        "button_1_style": "solid",
+        "button_2_text": "",
+        "button_2_link": "shopify:\/\/products\/sugar-partner-in-shine-transferproof-lip-gloss",
+        "button_2_style": "solid"
+      }
+    },
+    "rich_text_6pQCQ3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_C6fMTL": {
+          "type": "heading",
+          "settings": {
+            "text": "SUGAR ICONICS IN-FOCUS",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_C6fMTL"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Iconic-Tile-2022-Air-Kiss_1.jpg",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "",
+            "button_link": "shopify:\/\/products\/air-kiss-powder-lipstick",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Iconic-Tile-2023-LaLaLove.jpg",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "",
+            "button_link": "shopify:\/\/products\/la-la-love-18hr-liquid-lipstick",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "collection-3": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Iconic-Tile-2024-MM_1.jpg",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "",
+            "button_link": "shopify:\/\/products\/mousse-muse-lip-cream",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "collection-1",
+        "collection-2",
+        "collection-3"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "image_size": "auto",
+        "show_text_outside": false,
+        "space_items": true,
+        "stack_collections": true,
+        "collections_per_row_mobile": "1",
+        "collections_per_row_desktop": 3,
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    },
+    "media_grid_QpDKKN": {
+      "type": "media-grid",
+      "blocks": {
+        "image_zaAgde": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify:\/\/shop_images\/Blog-banner.jpg",
+            "column_count": "8",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "shopify:\/\/blogs\/should-you-apply-concealer-or-foundation-first\/should-you-apply-concealer-or-foundation-first",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_XXqyQf": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify:\/\/shop_images\/image_30.png",
+            "column_count": "4",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "shopify:\/\/blogs\/crease-proof-your-eyeshadow-with-these-easy-tips-written-by-nikhat-hassan\/crease-proof-your-eyeshadow-with-these-easy-tips-written-by-nikhat-hassan",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_GBzjMq": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify:\/\/shop_images\/image_31.png",
+            "column_count": "4",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "shopify:\/\/blogs\/mix-match-and-slay-with-the-latest-mascara-cocktailing-hack\/mix-match-and-slay-with-the-latest-mascara-cocktailing-hack",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_zaAgde",
+        "image_XXqyQf",
+        "image_GBzjMq"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "desktop_row_height": 290,
+        "mobile_row_height": 180,
+        "section_width": "md",
+        "spacing": "md",
+        "subheading": "",
+        "title": "<strong>SUGAR BEAUTY BLOG<\/strong>",
+        "content": ""
+      }
+    },
+    "1737436473d46b9e72": {
+      "type": "apps",
+      "blocks": {
+        "instafeed_app_block_8dbeHh": {
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "title_size_v2": 0,
+            "alignment": "center",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": false,
+            "link_alignment": "left",
+            "link_color": "#000000",
+            "background_color": "",
+            "feed_id": "",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "instafeed_app_block_8dbeHh"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "featured-collections",
+    "featured_collections_kRHTTn",
+    "featured_collections_Ucn9K7",
+    "rich_text_QCeRMx",
+    "slideshow_PeNia7",
+    "rich_text_m7KpDq",
+    "slideshow_rwBFMi",
+    "featured_collections_Nt6fMR",
+    "shop-the-look",
+    "scrolling_content_eeKYqE",
+    "images_with_text_scroll_Lmk9m4",
+    "rich_text_JYTnkm",
+    "1735025505b3a38173",
+    "rich_text_jrxhLm",
+    "slideshow_9icKmA",
+    "featured_collections_JhqhCg",
+    "featured_collections_b9GyHk",
+    "multiple_media_with_text_BQa3Xt",
+    "rich_text_6pQCQ3",
+    "collection-list",
+    "media_grid_QpDKKN",
+    "1737436473d46b9e72"
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_title": true,
+        "page_width": "xs"
+      }
+    },
+    "slideshow_kygTej": {
+      "type": "slideshow",
+      "blocks": {
+        "image_jatQJq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SUGAR-Elite-HP2-3200x1200.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/SUGAR-Elite-HP2-1200x1600.jpg",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "https:\/\/elite.sugarcosmetics.com\/",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 0,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": ""
+          }
+        },
+        "image_q3gjNa": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SUGAR-Elite-HP1-3200x1200_1_a1826202-48e0-4536-91d9-2a83efc8cbb9.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/SUGAR-Elite-HP1-1200x1600.jpg",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
+          }
+        }
+      },
+      "block_order": [
+        "image_jatQJq",
+        "image_q3gjNa"
+      ],
+      "settings": {
+        "allow_transparent_header": true,
+        "show_next_section_button": false,
+        "media_size": "auto",
+        "show_initial_transition": false,
+        "autoplay": true,
+        "autoplay_pause_on_video": true,
+        "cycle_speed": 5,
+        "background": "#000000",
+        "controls_color": "#ffffff"
+      }
+    },
+    "rich_text_Yczprn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wD8zdt": {
+          "type": "heading",
+          "settings": {
+            "text": "<strong>ABOUT SUGAR ELITE<\/strong>",
+            "heading_tag": "h1"
+          }
+        },
+        "subheading_7tjYiz": {
+          "type": "subheading",
+          "settings": {
+            "text": "Introducing an exclusive membership program for all beauty professionals in India!"
+          }
+        },
+        "richtext_APBDKM": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>SUGAR ELITE Program is for all salon owners, makeup academies, independent makeup artists, hair stylists and beauticians who are on the lookout for great beauty products. Get the best of SUGAR products at great prices and much more as a part of this exclusive community.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wD8zdt",
+        "subheading_7tjYiz",
+        "richtext_APBDKM"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "logo_list_VDWDVb": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_6xizDf": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/icon1Desktop.png",
+            "logo_width": 250,
+            "link": ""
+          }
+        },
+        "logo_WjkWJM": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/icon2Desktop.png",
+            "logo_width": 150,
+            "link": ""
+          }
+        },
+        "logo_TPa96z": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/icon3Desktop_b33dd0b1-c02b-44d2-a2a6-462e3c4108fa.png",
+            "logo_width": 150,
+            "link": ""
+          }
+        },
+        "logo_VNypJT": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/icon4Desktop.png",
+            "logo_width": 150,
+            "link": ""
+          }
+        },
+        "logo_7tiyTj": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/icon5Desktop.png",
+            "logo_width": 140,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_6xizDf",
+        "logo_WjkWJM",
+        "logo_TPa96z",
+        "logo_VNypJT",
+        "logo_7tiyTj"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "subheading": "",
+        "title": "<strong>Why you'll love it<\/strong>",
+        "items_per_row": 5,
+        "logo_item_background": "#efefef",
+        "logo_item_border": ""
+      }
+    },
+    "logo_list_KNwUaD": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_JGBaVy": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/icon6Desktop.png",
+            "logo_width": 250,
+            "link": ""
+          }
+        },
+        "logo_KdEfVn": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/icon7Desktop.png",
+            "logo_width": 250,
+            "link": ""
+          }
+        },
+        "logo_RjfwQk": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/icon8Desktop.png",
+            "logo_width": 250,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_JGBaVy",
+        "logo_KdEfVn",
+        "logo_RjfwQk"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "subheading": "Just in 3 simple Steps",
+        "title": "HOW TO APPLY",
+        "items_per_row": 3,
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "featured_collections_PiL44i": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_BipgpC": {
+          "type": "collection",
+          "settings": {
+            "collection": "sugar-elite",
+            "products_count": 8,
+            "title": "Bestsellers",
+            "link_url": "https:\/\/in.sugarcosmetics.com\/collections\/sugar-elite",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_BipgpC"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
+    "text_with_icons_DYdCGq": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_kEYKrB": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-delivery-truck",
+            "custom_icon": "shopify:\/\/shop_images\/Profile-Testimonial.png",
+            "icon_width": 64,
+            "mobile_icon_width": 64,
+            "title": "<strong>Deepali (Professional Makeup Artist)<\/strong>",
+            "content": "<p>\"As a professional makeup artist, I can't express how much I love being a part of the SUGAR Cosmetics Elite program. The exclusive discounts and benefits have truly elevated my makeup game. It's like having a secret weapon in my kit, ensuring I can create stunning looks for my clients without breaking the bank. Thank you, SUGAR Cosmetics, for making me feel like a true beauty insider!\"<\/p><p><\/p>"
+          }
+        },
+        "item_tDGMc8": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-customer-support",
+            "custom_icon": "shopify:\/\/shop_images\/Profile-Testimonial-B.png",
+            "icon_width": 64,
+            "mobile_icon_width": 64,
+            "title": "<strong>Ashvini (Salon Owner)<\/strong>",
+            "content": "<p>\"Being a part of the Elite program has been a game-changer for my business. The special discounts and benefits on SUGAR Cosmetics products not only help me provide high-quality services to my clients but also keep my costs in check. It's like having a beauty industry ally that understands the needs of small businesses like mine.\"<\/p>"
+          }
+        },
+        "item_BwHM6n": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-shield",
+            "custom_icon": "shopify:\/\/shop_images\/Profile-Testimonial.png",
+            "icon_width": 64,
+            "mobile_icon_width": 64,
+            "title": "<strong>Ayushi (Beauty Academician)<\/strong>",
+            "content": "<p>\"Being a part of the SUGAR Cosmetics Elite program has been an absolute delight. The exclusive discounts and benefits on their top-quality products have not only enhanced my personal artistry but also enriched my teaching resources. It's the perfect blend of practicality and luxury, making it an invaluable asset in my beauty journey.\"<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_kEYKrB",
+        "item_tDGMc8",
+        "item_BwHM6n"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "stack_on_mobile": false,
+        "icon_color": "",
+        "text_color": "",
+        "text_alignment": "center"
+      }
+    },
+    "faq_JfT4zc": {
+      "type": "faq",
+      "blocks": {
+        "question_JdCpEG": {
+          "type": "question",
+          "settings": {
+            "question": "What is the SUGAR ELITE program?",
+            "answer": "<p>SUGAR Elite is an exclusive program for all professional makeup artists, salon owners, beauticians, beauty academies and anyone in the beauty industry who wants to stock up on their makeup and skincare inventory.<\/p>"
+          }
+        },
+        "question_W7NnRz": {
+          "type": "question",
+          "settings": {
+            "question": "Can you reapply if the application to join Elite is rejected?",
+            "answer": "<p>Yes! You are welcome to reapply following the same steps ad submitting documents as before<\/p>"
+          }
+        },
+        "question_QQqGTi": {
+          "type": "question",
+          "settings": {
+            "question": "What is the maximum discount that can be availed?",
+            "answer": "<p>With this membership, the discount can be used to purchase products up to a maximum price of Rs 1,00,000. Should you exceed this limit the discount will no longer apply to the products for that month.<\/p>"
+          }
+        },
+        "question_tGP7kn": {
+          "type": "question",
+          "settings": {
+            "question": "Can multiple people in the same business access through one login ID and Password?",
+            "answer": "<p>Yes. However OTP would be generated on the registered number and is valid for 30 seconds.<\/p>"
+          }
+        },
+        "question_DpRz9d": {
+          "type": "question",
+          "settings": {
+            "question": "What happens if the max limit of purchases is over for the month and I want to purchase more in a particular month?",
+            "answer": "<p>Unfortunately as of now there is a max cap of Rs.1,00,000 per account per month.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_JdCpEG",
+        "question_W7NnRz",
+        "question_QQqGTi",
+        "question_tGP7kn",
+        "question_DpRz9d"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "show_categories": false,
+        "subheading": "",
+        "title": "Frequently Asked Questions",
+        "content": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_kygTej",
+    "rich_text_Yczprn",
+    "logo_list_VDWDVb",
+    "logo_list_KNwUaD",
+    "featured_collections_PiL44i",
+    "text_with_icons_DYdCGq",
+    "faq_JfT4zc"
+  ]
+}

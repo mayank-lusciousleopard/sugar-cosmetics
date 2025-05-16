@@ -1,0 +1,330 @@
+{
+  "current": {
+    "section_vertical_spacing": "sm",
+    "product_rating_color": "#1c1c1c",
+    "product_on_sale_accent": "#000000",
+    "product_sold_out_badge_background": "#efefef",
+    "product_custom_badge_background": "#1c1c1c",
+    "success_color": "#307a07",
+    "warning_color": "#ed8a00",
+    "error_color": "#cb2b2b",
+    "heading_font": "jost_n4",
+    "heading_letter_spacing": 18,
+    "text_font": "poppins_n4",
+    "text_font_size_desktop": 14,
+    "button_text_font": "body",
+    "button_letter_spacing": 18,
+    "round_color_swatches": true,
+    "color_swatch_config": "01 Scarlett O'Hara (Red): #861819\n07 Viola (Mauve Nude): #8a474e\n12 Baby Houseman (Deep Pink): #771455\n15 Stephanie Plum: #96547c\n28 Honey Rider (Deep Peach Pink): #a84954\n32 Miss Rosa (Dusky Rose): #773a53\n01 Boldplay (Cardinal Pink): #9c1f49\n02 Red Zeppelin (Chilli Red): #991C1A\n03 The Grandberries (Dark Berry): #71234A\n04 Maroon Vibe (Dark Red): #761D23\n05 Tan Halen (Chocolate Brown): \t#613C36\n06 Spring Crimson (Crimson Red): #A22B2F\n07 Peachwood Mac (Peach Pink): #904559\n08 Daft Pink (Deep Pink): #85164B\n09 The Peach Boys (Midtoned Peach): #9F4A45\n10 Depeach Mode (Peach): #BB6451\n11 The Blush Eyed Peas (Pink Blush Nude): #9d5a6c\n13 Plums N Roses (Deep Reddish Plum): #561630\n14 Caffeine Bandit (Chocolate Brown): #674335\n15 Salmon Republic (Deep Salmon Pink): #903941\n17 Grateful Red (Bluish Red, Cool Toned Red): #880f38\n01 Cherry Crush: #9f0f0f\n02 Scarlet Smitten: #810e13\n03 Berry Bliss: #630e2d\n04 Mauve Mack: #ac526e\n05 Pink Platonic: #953467\n08 Peach Passion: #B55058\n09 Caramel Cupid: #B94C35\n11 Chocolate Charm: #693120\n01 Backlit Nude: #9A575E\n02 Pinkie: #BA2988\n03 Red Square: #A52440\n04 Water Lillies: #873245\n05 Red Balloon: #711B26\n06 Harmony in Red: #9C0612\n07 Plum Brandy: #74284F\n08 Spring Flower: #B44868\n09 Girl With Peaches: #C07B97\n10 Almond Blossoms: #80525C\n11 The Salmon: #A75154\n12 Roseate Spoonbill: #8e5c5d\n13 Vandyke Brown: #723739\n14 The Foxes: #5d322c\n01 Taffeta Terracotta: #8c4029\t\n02 Wooed By Nude: #ac524c\n04 Tan Fan: #a64357\n05 Brazen Raisin: #a72c3c\n07 Fiery Berry: #831f45\n01 Scarlett O'Hara (Red) | 2.8 gm: #c1002c\t\n02 Mary Poppins (Fuchsia) | 2.8 gm: #b4195f\n04 Holly Golightly (Nude) | 2.8 gm: #d29f9a\n05 Rose Dawson (Rose Pink) | 2.8 gm: #b43444\n07 Viola (Mauve Nude) | 2.8 gm: #9c444b\n08 Jackie Brown (Reddish Brown) | 2.8 gm: #a53c3e\t\n09 Princess Peach (Peach) | 2.8 gm: #bf4444\t\n10 Cherry Darling (Cherry Red) | 2.8 gm: #85141c\t\n11 Elle Woods (Brown Nude) | 2.8 gm: #be493f\n13 Murphy Brown (Chocolate Burgundy) | 2.8 gm: #59151a\t\n14 Violet Crawley (Smokey Violet) | 2.8 gm: #7d3348\t\n15 Stephanie Plum (Plum Mauve) | 2.8 gm: #873b3f\n16 Claire Underwood (Burnt Orange) | 2.8 gm: #945d48\t\n17 Brandy Harrington (Rusty Reddish Pink) | 2.8 gm: #8c4250\n18 Rosalind (Nude Rose) | 2.8 gm: #b4717c\n19 Emma Woodhouse (Earthy Brown) | 2.8 gm: #8f4737\n20 Buffy Summers (Mid-tone Warm Nude) | 2.8 gm: #7f3a34\n21 Rose Tyler (Light Fuchsia\/ Deep Rose) | 2.8 gm: #932958\n22 Donna Pinciotti (Magenta Pink) | 2.8 gm: #c63858\n23 Jessica Day (Dusty Coral) | 2.8 gm: #922129\n24 Rachel Berry (Deep Berry) | 2.8 gm: #510d1d\n25 Lily Aldrin (Mauve Pink) | 2.8 gm: #732e3f\t\n26 Vianne Rocher (Deep Chocolate Brown) | 2.8 gm: #674137\n29 Molly Brown (Peachy brown \/ Orange toned brown) | 2.8 gm: #8e3f3b\n30 Lillian Rose (Magenta \/ Bright Fuchsia) | 2.8 gm: #b92a67\n31 Poppy Adams (Raspberry Pink) | 2.8 gm: #8f2a55\t\n32 Miss Rosa (Dusky Rose) | 2.8 gm: #773952\n33 Pepper Anderson (Orangey red \/ Tomato red) | 2.8 gm: #b93730\n34 Cherry Ames (Cool toned red) | 2.8 gm: #942839\n35 Claire Redfield (Pure red) | 2.8 gm: #880b2a\t\n36 Veronica Mars (Brown Toned Burnt Orange) | 2.8 gm: #682a26\n01 Mood: #FA91BA\n02 Woke: #EE647B\n03 Valid: #BB564C\n04 Simp: #AE6173\n05 Dope: #D28362\n06 Swanky: #CB8880\n01 Cinnamon Champagne: #B06152\n02 Brick Bardo: #C8564B\n03 Blush Brandy: #BB5963\n04 Salmon Sake: #C66159\n05 Mauve Malbec: #B65A6C\n06 Rouge Rueda: #BB4750\n07 Strawberry Soju: #C44157\n08 Pink Pinot: #C3315D\n09 Raspberry Rosé: #9E2242\n10 Tangerine Tuscan: #FF2222\n11 Ruby Rioja: #B41015\n12 Crimson Cognac: #980D11\t\n13 Mulberry Merlot: #6B0D2C\t\n14 Sepia Shiraz: #954B34\t\n15 Burnt Brunello: #652823\t\n01 G.O.A.T: #b56f94\n02 Finesse: #ca6070\n03 Snacc: #b93178\n04 Stan: #b06881\n01 MLBB: #F0645F\n02 IRL: #C87A6D\n03 FOMO: #D28982\t\n04 YOLO: #C54D77\t\n05 LOML: #A73B6E\t\n01 Timeless Taupe: #b7563b\n02 Retro Rosewood: #bd373e\n03 Thera Terracotta: #9d3a2a\n04 Roman Rose: #c24567\n05 French Fuchsia: #a7244c\n06 Roaring Raspberry 4ml: #67182b\n07 Mayan Midnight: #78231e\n01 Santorini Sunset: #a55242\n02 Positano Peach: #a84a4b\n03 Sahara Sands: #974e3d\n04 Cairo Crimson: #bb323a\n05 Parisian Pink: #b4465f\n06 Moscow Mulberry: #782e3f\n07 Tuscany Truffle: #733528\n01 Jerry Brown (Medium Brown): #2b1a13\n02 Taupe Tom (Grey Brown): #453b3c\n03 Woody Scooby (Deep Brown): #4f3e36\n04 Felix Onyx (Dark Blackish Brown): #402e2a\t\n01 Black Swan (Black): #000000\n04 Coffee Shop (Dark Chocolate Brown): #281711\n01 Back to Black: #000000\n02 Purple Rain (Purple): #2c2236\n04 Blue Suede Shoes (Royal Blue): #274f91\n03 Green Lantern (Chrome Green): #244548\n01 Jerry Brown: #311309\n02 Taupe Tom: #674e4a\n 01 Black Diamond: #000000\n02 Star Sapphire: #0055c9\n07 Vanilla Latte (Fair, Golden Undertone): #f3d3b9\n10 Latte (Light Warm - Undertone): #dec09c\n15 Cappuccino (Light Cool - Undertone): #e4bcaa\n17 Raf (Light - Golden Undertone): #f2d5b5\t\n20 Galão (Light Medium - Golden Undertone): #d3ab79\t\n25 Macchiato (Light Medium - Olive Undertone): #dec09a\t\n27 Vienna (Light Medium - Warm Undertone): #eec6a4\t\n30 Chococcino (Medium - Warm Undertone): #e5c09d\t\n32 Cortado (Medium - Golden Undertone): #eabf97\t\n35 Frappe (Medium - Neutral Undertone): #e5bc9c\t\n37 Freddo (Medium Beige - Golden Peach Undertone): #ebbc98\t\n40 Breve (Medium Beige - Warm Undertone): #cea078\t\n42 Glace (Medium Beige - Golden Undertone): #e8b88f\t\n45 Con Panna (Medium Tan - Golden Undertone): #c18c63\t\n47 Borgia (Medium Tan - Warm Undertone): #e3b28e\t\n48 Irish (Medium Tan - Neutral Undertone): #dca77e\t\n50 Mocha (Medium Tan - Golden Undertone): #c79667\t\n52 Corretto (Tan - Yellow Undertone): #d8a679\t\n01 Peach Peak (Soft Peach Pink): #cb5d4e\n02 Pink Pinnacle (Deep Rose): #aa5342\t\n03 Mauve Marvel (Plum): #944f48\t\n04 Salmon Superstar (Warm Peach): #ba5d65\t\n10 Latte (light): #fbd4b7\t\n15 Cappuccino (light-medium): #f7c2a0\t\n30 Chococcino (medium): #fabc93\t\n45 Con Panna (medium-deep): #ecab83\t\n12 Con Leche (Light, Golden Undertone): #e8c399\t\n45 Con Panna (Medium Beige, Golden Undertone): #c18c63\t\n01 Gold Diggin' - warm gold with a pearl finish: #fcefb3\t\n02 Pink Trippin' - cool pink with a pearl finish: #ffd9e6\t\n03 Peach Poppin' - warm peach with a pearl finish: #ffd7a6\t\n01 Champagne Champion (Champagne Gold): #d6b2a6\t\n02 Gold Glory (Golden Bronze): #cfaa8d\t\n04 Royal Rose (Rosey Taupe): #cd9e8a\n01 Taupe Topper (Cool-toned Brown Gray Undertone): #996f59\t\n02 Woody Wonder (Warm Brown): #9a6345\t\n03 Caramel Captain (Chestnut Brown): #B9835C\t\n07 Vanilla Latte: #f7d4be\t\n10 Latte: #e3cbae\t\n15 Cappuccino: #e8b69e\t\n17 Raf: #e1c6a5\t\n20 Galao: #ebc8a3\t\n27 Vienna: #e7c7a7\t\n35 Frappe: #c89e96\t\n37 Freddo: #e4be97\t\n40 Breve: #e5a87d\t\nAnti-Aging: #d6e9e1\t\nBrightening: #e5e5f7\t\nClarifying: #dddde0\t\nDepuffing: #dfbfba\t:\n01 Gold Diggin: #FBEFB3\t\n02 Pink Trippin: #FFD9E6\t\n01 Peach Precedent (Peach): #F1D5B0\t\n02 Onward Orange (Orange): #AB4738\t\n03 Jade Jockey (Green): #B6CD89\t\n32 Cortado: #e3c18f\t\n42 Glace: #dbb78a\n47 Borgia: #cfa987\n48 Irish:\t#da9770\t\n52 Corretto: #ca906a\t\n55 Americano: #d4926d\t\n01 Bare Magic: #BB4F60\t\n02 Peachy Parade: #E13D35\t\n03 Merry Mauve: #8F3C3A\t\n04 Candy Pink: #E5205F\t\n05 Bingo Plum: #6C2333\n01 Brazen Raisin (Burgundy): #76101c\n02 Brink Of Pink (Plum Rose): #8a2641\n03 Tan Fan (Mauve Nude): #ab4e59\n07 Rethink Pink (Fuchsia): #af2259\n08 Wine And Shine (Sangria): #6b0332\t\n09 Suave Mauve (Mauve): #974c5a\n10 Drop Dead Red (Red): #a51e2e\n11 Greige Rage (Greige Rose): #6b313b\n12 Don Fawn (Yellow Brown): #7b3f36\n14 Teak Mystique (Warm Brown): #6c372e\n16 Bare Flair (Rose Brown): #773f46\n17 Fiery Berry (Marsala): #6c2640\n18 Divine Praline (Dusty Burgundy): #5a1b22\n21 Aubergine Queen (Blackened Burgundy): #572729\n25 Very Mulberry (Deep Berry): #4f252c\n42 Toast Roast (Deep Reddish Brown): #4a1102\n43 Hot Shot (Hot Pink\/Dark Fuchsia Pink): #a90f33\n51 Fine Wine (Burgundy Red): #8d2d3c\t\n52 Modern Auburn (Flamenco Red\/Deep Red with blue undertone): #912931\n02 Elizabeth (Rosy Cheeks Pink): #CA687B\n03 Emma (Reddish Brown): #8D2025\n07 Gabriella (Soft Dusty Nude\/Nude Pink): #AC676A\n09 Charlotte (True Blue Red): #C72846\n10 Diana (Peachy Pink): #CE7176\n07 Vanilla Latte (Fair): #f5daba\n15 Cappuccino (Light): #f1cbb8\n25 Macchiato (Light Medium): #cab089\n32 Cortado (Medium): #e2b69a\n01 Daisy: #a42944\n02 Lily: #c42921\n03 Tulip: #BC546B\n04 Orchid: #9c5473\n05 Lotus: #ad3d55\n06 Amber: #A6674C\n07 Blossom: #d03952\n08 Carnation: #a90c26\n09 Iris: #71383e\n10 Rose: #d37352\n11 Lilac: #cd4d80\n12 Daffodil: #A23542\n13 Sunflower: #C33621\n14 Hibiscus: #A3141B\n15 Mimosa: #A53551\n16 Zinnia: #DB0C20\n17 Aster: #BA3843\n18 Jasmine: #C54F53\t\n19 Cosmos: #950C23\n20 Passion: #A9183C\n10 Latte (Light Warm Undertone): #dec09c\n15 Cappuccino (Light Cool Undertone): #e8b69e\n17 Raf (Light, Golden Undertone):  #e1c6a5\n20 Galão (Light Medium Golden Undertone): #ebc8a3\n25 Macchiato (Light Medium, Olive Undertone): #dec09a\n30 Chococcino (Medium Warm Undertone): #fabc93\n32 Cortado (Medium, Golden Undertone): #e3c18f\t\n35 Frappe (Medium Neutral Undertone): #e5bc9c\n37 Freddo (Medium Beige Golden Peach Undertone):  #e4be97\n40 Breve (Medium Beige, Warm Undertone): #cea078\n02 Royal Rose (Rosey Taupe): #d29087\n01 Black: #000000\t\n02 Blue: #232650\t\n01 Hazelnut (Fair, Warm Undertone): #f8ca96\n03 Cashew (Fair, Golden Undertone): #f6c793\t\n05 Almond (Medium, Golden Undertone): #e6b082\n07 Walnut (Medium, Neutral Undertone): #eaaf85\t\n09 Peanut (Medium Beige, Warm Undertone): #e6b386\n11 Apricot (Medium Golden, Warm Undertone): #d1a17d\n13 Raisin (Medium Beige, Warm Undertone): #efd3ab\n15 Fig (Medium Deep, Warm Undertone): #e3b68f\t\n12 Con Leche: #e8c399\t\n30 Chococcino: #e5c09d\t\n45 Con Panna: #c18c63\t\n01 Fawn First (Milk Chocolate Brown): #b37f68\t\n02 Espresso Edge (Coffee Brown): #936356\t\n10 Latte (Light, Warm Undertone): #dec09c\n15 Cappuccino (Light, Cool Undertone): #e8b69e\n27 Vienna (Light Medium, Warm Undertone): #eec6a4\n35 Frappe (Medium, Neutral Undertone): #e5bc9c\n01 Taupe: #5c1307\n02 Candy: #9c340a\n03 Scarlet: #b90404\n04 Caramel: #db2c43\n05 Chocolate: #b34f47\t\n01 Lyra (Cool Toned Plum): #b46095\n02 Vega (Deep Fuchsia): #811e59\n03 Estella (Neutral Pinky Brown): #9d606b\n04 Sirius (Cherry Red): #ab2420\n07 Bellatrix (Mauve pink with brown undertones): \t#6d3238\n10 Mimosa (Deep pinkish red with blue undertone): #9e0d30\t\n11 Rigel (Rusty orange): #80261e\n12 Talitha (Bright magenta with red undertones): #af1142\t\n02 Velma Pinkley (Pink Nude): #bb5964\n10 Princess Aurora (Golden Beige With Shimmer): #efcbba\n01 Blackmagic Woman (Black): #000000\n04 Purple Haze (Grape Purple): #3b254c\n02 Pink Prime (Rose Pink): #d57d7d\n\nSUGAR POP Nourishing Lip Balm\n01 Mint: #dfcebe\n02 Cherry: #a71925\n03 Vanilla: #e43552\n04 Coffee: #64180f\n05 Peach: #d67362\n06 Strawberry: #e44b50\n07 Plum: #6e3231\n\nSUGAR POP Nail Lacquer Glitter\n01 Rose Quartz: #b37a71\n02 Bling & Beyond: #ad8f6b\n03 Star Glazing: #222921\n04 Diamonds & Pearls: #ebebe9\n05 Dazzling Diva: #8e3730\n06 Wedding Bells: #94937e\n07 Ocean Sparkle: #1192c1\n08 Cherry Blossom: #e02361\t\n09 Ruby Glaze: #ae2a2a\t\n10 Gold Rush: #e6c909\n\nSUGAR POP Nail Lacquer\n01 Spring Bloom: #dbb9b9  \n02 Bubblegum Dreams: #e4a5c0  \n03 Aqua Babe: #6db7d4  \n04 Hello Yellow: #f4d246  \n05 Salmon Wonder: #e28d87  \n06 Blue For You: #5685df  \n07 Tangerine Queen: #e15b31  \n08 Silk Stockings: #c19592  \n09 Lilac Rush: #ac70a3  \n10 Call Me Hot: #b01f5f  \n11 Chocolate Treat: #bc6a6c  \n12 Serene Sunset: #da2621  \n13 Red Alert: #b50c14  \n14 Berry Me: #895061  \n15 Bold Please: #831c17  \n16 Lavender Lit: #f8c4dc  \n17 Mint Marvel: #9cd4d4  \n18 Red Rum: #dc2c24  \n19 Baked Bae: #e4c4b4  \n20 Silver Crown: #a4a4a4  \n21 Black Berry: #040404  \n22 Burgundy Bloom: #841534  \n23 Ocean Drive: #041454  \n24 Keen Green: #5c6444  \n25 Red Claret: #4A0404  \n26 Pink Perfection: #dc2b6c  \n27 Crystal Clear: #f1f1f1  \n28 Ash Clash: #5c5454  \n29 Brown Town: #743c33  \n30 Plum Pluck: #6c2c54  \n31 Ivory Supreme: #F2F2F2  \n32 Fresh Mint: #88efa4  \n33 Mauve Dream: #cd638b  \n34 Winter Sky: #b7efd0  \n35 Powder Pink: #e34d4d  \n36 Caramel Cream: #d79660  \n37 Coral Crush: #ec6b49  \n38 Hazelnut Brown: #a24e1c  \n39 Rosy Delight: #ec5965  \n40 Tranquil Green: #7ba785  \n41 Soft Orchid: #ee7eb1  \n42 Marshmallow Pink: #eeb392  \n43 Vintage Brick: #ae2c0a  \n44 Rosy Bloom: #eb3047  \n45 Teal Oasis: #0b9766  \n46 Coral Nude: #d16abf  \n47 Lilac Haze: #f36c35  \n48 Twilight Peach: #95a70d  \n49 Matcha Magic: #f27f7f  \n50 Coral Nude: #f2a78e\n\nSUGAR POP Matte Lipcolour\n01 Chilli: #b2212d  \n02 Mauve: #90413d  \n03 Peony: #d62850  \n04 Raspberry: #911c41  \n05 Mahogany: #7e2e2a  \n06 Garnet: #af302c  \n07 Wine: #b33740  \n08 Crimson: #ad242f  \n09 Mulberry: #722128  \n10 Rosewood: #b35e51  \n11 Ruby: #800b1d  \n12 Rust: #b65c73  \n13 Magenta: #9b1c5c  \n14 Brick: #a4314c  \n15 Flamingo: #a13b5b  \n16 Terracotta: #984239  \n17 Cocoa: #4f1a0b  \n18 Maple: #b34311  \n19 Cranberry: #990c0c  \n20 Poppy: #e21165  \n21 Petal: #e17c6b  \n22 Mocha: #b3491e  \n23 Coralburst: #e4593e  \n24 Pinkbliss: #eb2a41  \n25 Cinnamon: #af320a  \n\n01 Pink Paradise: #ca495f  \n02 Floral Fantasy: #cb5973  \n03 Coral Delight: #cf3945  \n04 Garnet Glam: #cd0e16  \n05 Rustic Rose: #c15064  \n06 Autumn Amber: #b7363a  \n07 Ruby Red: #af050e  \n08 Coffee Craze: #a73228  \n09 Cocoa Crush: #b42419  \n10 Red Rebel: #d10101  \n11 Maroon Magic: #891321  \n12 Berry Burst: #910037  \n13 Fuchsia Fling: #c0125a  \n14 Bronze Beauty: #983933  \n15 Natural Nude: #c64f49\n\nSUGAR POP Matte Mousse Lipstick\n01 Berry Bar: #b41c4c  \n02 Candy Cane: #5c0424  \n03 Caramel Custard: #94544c  \n04 Red Velvet: #a41c24  \n05 Tiramisu Tart: #841c1c  \n\nSUGAR POP Longwear Compact\n01 Sand: #e7c89a  \n02 Beige: #dbb989  \n03 Honey: #cda277  \n04 Pearl: #eec39f  \n05 Nude: #f1b696  \n06 Ivory: #f3c3aa  \n07 Biscuit: #e6a07c\n\nSUGAR POP Full Coverage Concealer\n01 Cashew: #f6d7ba \n02 Walnut: #dcb49c \n03 Peanut: #cca47c\n01 Ocean Melody: #C7E1E2\n02 Floral Bloom: #EAD5D4\n03 Citrus Bliss: #EBE6D3\n\n01 Marshmallow: #f5ede6  \n02 Cotton Candy: #dc4c5f  \n03 Maple Syrup: #bd5c31\n01 Black Kajal: #000000\n02 Blue Kajal: #232650\n03 Brown Kajal: #71402c\n\n01 Rose: #d392a7\t\n02 Sienna: #dc818f\t\n03 Carnation: #f57285\n\n01 Browning Glory (Caramel Nude): #98504B  \n02 Red Rush (Red with hints of pink orange): #9C3644  \n03 Rust Have (Subtle Burnt Red): #A93B32  \n04 Nude Vibes (Mauve Nude): #8B485C  \n08 Berry Picking (Berry): #871B4F  \n09 Royal Redding (Dark Red): #84222F  \n12 Teak Over (Purple Brown, Brown Burgundy): #6C3538  \n13 Rose Job (Rose Mauve): #AE595F  \n14 Red Herring (Raspberry Pink, Reddish Pink): #AB3156  \n15 Beige Turner (Nude Brown, Peach Brown): #A05C4C  \n16 Cloud Wine (Burgundy, Red Berry): #7E212C  \n18 Scarlet Letter (Pure Red): #9D2230  \n22 Bare Hug (Pink Nude): #B2505A  \n31 Simmer Brown (Milk Chocolate Brown\/Almond Brown): #8B4033\n01 Mojito: #9AD7C8  \n02 Cosmopolitan: #C10823  \n03 Pinacolada: #E4D7B7  \n04 L.I.I.T: #54100F  \n05 Irish Coffee: #DDAA7C  \n06 Mango Margarita: #E84E0E  \n07 Bramble: #451623\nAir Kiss Powder Lipstick- 01 Mocha Mousse: #754b4e\t\nAir Kiss Powder Lipstick - 02 Candyfloss: #bb486b\nAir Kiss Powder Lipstick- 03 Caramel Soufflé: #9e5357\t\nAir Kiss Powder Lipstick- 04 Cherry Fluff: #b43d48\t\nAir Kiss Powder Lipstick- 05 Strawberry Macaron: #bc5c65\t\n01 Black Out (Black): #000000\t\n02 Brown Bag (Chocolate Brown): #321F10\t\n03 Aqua Lung (Metallic Mint Green): #12837E\t\n04 True Blue (Navy Blue): #00224A\t\n05 Go Green (Dark Green): #005A47\t\n06 Blue Moon (Metallic Baby Blue): #007CAE\t\n01 Pink Positive: #d961ac\n02 Break On Blue: #4c8fc8\n03 Beat The Blues: #829ed2\n04 Purple Passion: #8e59c1\n05 Social Sepia: #a17460\n06 Blush Hour: #c69fa3\n07 Mint Money: #afe6aa\n08 Sacred Sage: #6a9a8f\n09 Blue Blaze: #90d3e6\n10 Coral Compass: #e8776e\n11 Lilac Lustre: #b5a4c9\n12 To Taupe It All: #74635e\n13 Blush-A-Bye Baby: #c9a4a2\n14 Teal Tides: #50e1d0\n15 Pink Peony: #ac5e7c\n16 Peacher Perfect: #efa7a9\n17 Grays of God: #a5ada0\n18 Cookie Cutter: #c5b0a3\n19 Bounce Black: #0b0b0b\n20 White Waves: #ffffff\n21 Playful Pink: #e44a98\n22 Pink Potion: #b62d6e\n23 Mystic Magenta: #a11f52\n24 Chilli Charm: #ca292f\n25 Crimson Canopy: #a50213\n26 Red Rhapsody: #9e0009\n27 Spicy Sangria: #8a184a\n28 Joyful Jam: #7e182d\n29 Grand Garnet: #75111f\n30 Maroon Meadow: #64161c\n31 Tangerine Treat: #ca5351\n32 Berry Burst: #451a32\n33 Peppy Pink: #f7dbe9\n34 Flamingo Flair: #fe9fb3\n35 Pink Passion: #f178a5\n36 Magenta Maze: #e34868\n37 Red of Roses: #d1042f\n38 Burn Your Beiges: #e1c1ac\n39 Peach Party: #f0a89a\n40 Caramel Crunch: #b4775b\n41 Bow Brown: #b5594e\n42 Turquoise Tint: #8ee2d5\n43 Blue Bliss: #7ed1d9\n44 Lavender Love: #d0bae1\n01 Red Carpet: #bd1515\t\n02 Pink Wave: #ca1d45\t\n03 Beige Vibes: #dd7056\t\n01 Burgundy: #6b1f26\t\n03 Fuschia: #962352\t\n04 Mocha: #934a3f\t\n06 Rose: #b84c6c\n01 Smokey: #7d624c\n02 Ebony: #5c5142\t\n02 Almond: #e3bb87\t\n03 Walnut: #caab7c\t\n04 Peanut: #c1975e\t\n05 Fig: #ac8155\t\n02 Buff: #c4a483\t\n01 - Cashew: #f6d7ba\n01 Coconut Crunch: #ecece4\n02 Caramel Crepe: #bc6444\n03 Berry Blast: #84344c\n04 Mocha Melt: #7c3c2c\n02 Pink Waves: #ca1d45\n01 Daisy: #a42944\t\n02 Lily: #c42921\t\n03 Tulip: #BC546B\t\n04 Orchid: #9c5473\t\n05 Lotus: #ad3d55\t\n06 Amber: #A6674C\t\n07 Blossom: #d03952\t\n08 Carnation: #a90c26\t\n09 Iris: #71383e\t\t\n10 Rose: #d37352\n11 Lilac: #cd4d8\n15 Cappuccino (Light)- Concealer: #E8cBAF\t\n30 Chococcino (Light Medium) - Concealer: #e6cbad\t\n40 Breve (Medium) - Concealer: #D3Af8b\t\n45 Con Panna (Deep) - Concealer: #D4AA81\n01 Tan Brown: #895E50\t\n02 Flaming Red: #AA1F27\t\n03 Vivid Pink: #A70D3F\t\n04 Coral Nude: #AF5B6B\t\n05 Blush Brigade: #B1625E\n50 Pearl Pink: #e9c1d5\n05 Flat White: #eac69d\n20 Galão: #e3ba88\n55 Americano (Medium Deep): #e7b089\n02 Pink Trippin': #ffd9e6\n03 Peach Poppin': #ffd7a6",
+    "product_image_aspect_ratio": "square",
+    "show_secondary_image": true,
+    "show_vendor": false,
+    "product_card_text_font": "heading",
+    "product_price_strategy": "max_price",
+    "show_product_rating": false,
+    "show_product_rating_if_empty": false,
+    "show_quick_buy": false,
+    "discount_mode": "percentage",
+    "cart_type": "page",
+    "cart_icon": "tote_bag",
+    "social_facebook": "https:\/\/www.facebook.com\/trySUGAR\/",
+    "social_twitter": "https:\/\/x.com\/trysugar",
+    "social_instagram": "https:\/\/www.instagram.com\/trysugar",
+    "social_youtube": "https:\/\/www.youtube.com\/@SUGARCosmetics",
+    "social_linkedin": "https:\/\/in.linkedin.com\/company\/sugar-cosmetics",
+    "favicon": "shopify:\/\/shop_images\/Favicon-SUGAR_1_15359a4f-dd7b-494b-97c2-f669e202d299.png",
+    "mid": "19f81tem3afa",
+    "envType": "production",
+    "ga4Gokwik": "G-DSQ460TNKF",
+    "fbpixel": "248951791980980",
+    "priClr": "#282828",
+    "secClr": "#ffffff",
+    "goEnable": true,
+    "main-titile": "Checkout",
+    "goBuynowEnable": true,
+    "buynow-titile": "Buy It Now",
+    "btnBClr": "#282828",
+    "content_for_index": [],
+    "blocks": {
+      "14060646107696862457": {
+        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "disabled": false,
+        "settings": {}
+      },
+      "15181020662106344915": {
+        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/popup_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "disabled": false,
+        "settings": {}
+      },
+      "3720565183479497137": {
+        "type": "shopify:\/\/apps\/globo-product-option\/blocks\/app-embed-block\/fdc9fad5-1a0f-4bd4-9c8a-1af6a6eef6b8",
+        "disabled": false,
+        "settings": {}
+      },
+      "8605505498557855500": {
+        "type": "shopify:\/\/apps\/bogos-io-free-gift\/blocks\/app-embed\/0432bba6-720a-4e95-be5a-b868386f7aa6",
+        "disabled": false,
+        "settings": {}
+      },
+      "859976262161311183": {
+        "type": "shopify:\/\/apps\/searchtap-product-search\/blocks\/searchtap-search\/7f37b5a8-2da6-4475-be8a-cbcd4177895f",
+        "disabled": false,
+        "settings": {
+          "theme_css": "{{ shop.metafields.searchtap.custom_css }}\n\nbody.searchtap:has(.shopify-section:first-child [allow-transparent-header]):not(:has(.shopify-section--header~.shopify-section-group-header-group)) .header {\n    margin-block-end: 0;\n}\n\nbody.searchtap:has(.shopify-section:first-child [allow-transparent-header]):not(:has(.shopify-section--header~.shopify-section-group-header-group)) .header:not(:hover,.is-solid,:has([open])) {\n    --background: 243 243 243 \/ 1.0 !important;\n    --border-color: 220 220 220 !important;\n    --text-color: 92 92 92 !important;\n    --header-show-transparent-logo: 0 !important;\n    margin-block-end: 0;\n}\n.st-search-root .st-autocomplete-container #st-product-wrapper .st-product-container.st-carousel .st-row .st-column-33 {\n    max-width: 20%;\n    flex: 20%;\n    flex-shrink: 0;\n}\n@media only screen and (min-width: 1025px) {\n    .st-search-root .st-autocomplete-container.st-pre-search {\n        min-width: calc(100% - 523px);\n        max-width: calc(100% - 523px);\n    --background: 243 243 243\/1.0;\n    background-color: rgb(var(--background))!important;\n    }\n}",
+          "theme_js": "{{ shop.metafields.searchtap.custom_js }}"
+        }
+      },
+      "12314280791104830742": {
+        "type": "shopify:\/\/apps\/webengage\/blocks\/webengage-embed\/1d458caf-1d70-4697-a570-55048d495614",
+        "disabled": false,
+        "settings": {}
+      },
+      "14327677521557774844": {
+        "type": "shopify:\/\/apps\/simprosys-google-shopping-feed\/blocks\/core_settings_block\/1f0b859e-9fa6-4007-97e8-4513aff5ff3b",
+        "disabled": false,
+        "settings": {}
+      }
+    },
+    "color_schemes": {
+      "scheme-1": {
+        "settings": {
+          "background": "#ffffff",
+          "background_gradient": "",
+          "text_color": "#1c1c1c",
+          "primary_button_background": "#1c1c1c",
+          "primary_button_text_color": "#ffffff",
+          "circle_button_background": "#ffffff",
+          "circle_button_icon": "#1c1c1c"
+        }
+      },
+      "scheme-2": {
+        "settings": {
+          "background": "#f3f3f3",
+          "background_gradient": "",
+          "text_color": "#5c5c5c",
+          "primary_button_background": "#5c5c5c",
+          "primary_button_text_color": "#ffffff",
+          "circle_button_background": "#ffffff",
+          "circle_button_icon": "#5c5c5c"
+        }
+      },
+      "scheme-3": {
+        "settings": {
+          "background": "#1c1c1c",
+          "background_gradient": "",
+          "text_color": "#ffffff",
+          "primary_button_background": "#ffffff",
+          "primary_button_text_color": "#1c1c1c",
+          "circle_button_background": "#ffffff",
+          "circle_button_icon": "#1c1c1c"
+        }
+      },
+      "scheme-4": {
+        "settings": {
+          "background": "rgba(0,0,0,0)",
+          "background_gradient": "",
+          "text_color": "#ffffff",
+          "primary_button_background": "#ffffff",
+          "primary_button_text_color": "#1c1c1c",
+          "circle_button_background": "#ffffff",
+          "circle_button_icon": "#1c1c1c"
+        }
+      },
+      "scheme-fae552ae-aaf6-4450-b76a-c50842245a4b": {
+        "settings": {
+          "background": "#ffdce2",
+          "background_gradient": "linear-gradient(57deg, rgba(249, 119, 255, 0.84) 40%, rgba(54, 212, 255, 1) 88%, rgba(177, 231, 201, 1) 100%)",
+          "text_color": "#1c1c1c",
+          "primary_button_background": "#1c1c1c",
+          "primary_button_text_color": "#ffffff",
+          "circle_button_background": "#ffffff",
+          "circle_button_icon": "#1c1c1c"
+        }
+      },
+      "scheme-944e7e81-e673-45cf-8371-d9aa9fc23d27": {
+        "settings": {
+          "background": "#e47f7f",
+          "background_gradient": "linear-gradient(210deg, rgba(249, 123, 53, 0.81) 13%, rgba(215, 231, 80, 0.21) 31.655%, rgba(231, 222, 72, 0.21) 32%, rgba(249, 77, 43, 1) 83%, rgba(225, 49, 49, 1) 100%)",
+          "text_color": "#1c1c1c",
+          "primary_button_background": "#1c1c1c",
+          "primary_button_text_color": "#ffffff",
+          "circle_button_background": "#ffffff",
+          "circle_button_icon": "#1c1c1c"
+        }
+      }
+    }
+  },
+  "presets": {
+    "Allure": {
+      "section_vertical_spacing": "md",
+      "heading_font": "instrument_sans_n4",
+      "heading_letter_spacing": 18,
+      "text_font": "nunito_n4",
+      "text_font_size_desktop": 14,
+      "button_letter_spacing": 18,
+      "color_schemes": {
+        "scheme-1": {
+          "settings": {
+            "background": "#efefef",
+            "text_color": "#1c1c1c",
+            "primary_button_background": "#1c1c1c",
+            "primary_button_text_color": "#ffffff",
+            "circle_button_background": "#ffffff",
+            "circle_button_icon": "#1c1c1c"
+          }
+        },
+        "scheme-2": {
+          "settings": {
+            "background": "#ffffff",
+            "text_color": "#1c1c1c",
+            "primary_button_background": "#1c1c1c",
+            "primary_button_text_color": "#ffffff",
+            "circle_button_background": "#ffffff",
+            "circle_button_icon": "#1c1c1c"
+          }
+        },
+        "scheme-3": {
+          "settings": {
+            "background": "#1c1c1c",
+            "text_color": "#ffffff",
+            "primary_button_background": "#ffffff",
+            "primary_button_text_color": "#1c1c1c",
+            "circle_button_background": "#ffffff",
+            "circle_button_icon": "#1c1c1c"
+          }
+        },
+        "scheme-4": {
+          "settings": {
+            "background": "rgba(0,0,0,0)",
+            "text_color": "#ffffff",
+            "primary_button_background": "#ffffff",
+            "primary_button_text_color": "#1c1c1c",
+            "circle_button_background": "#ffffff",
+            "circle_button_icon": "#1c1c1c"
+          }
+        }
+      },
+      "success_color": "#307a07",
+      "warning_color": "#ed8a00",
+      "error_color": "#cb2b2b",
+      "product_rating_color": "#1c1c1c",
+      "product_on_sale_accent": "#e32c2b",
+      "product_sold_out_badge_background": "#efefef",
+      "product_custom_badge_background": "#1c1c1c"
+    },
+    "Couture": {
+      "section_vertical_spacing": "md",
+      "heading_font": "jost_n4",
+      "heading_letter_spacing": 18,
+      "text_font": "poppins_n4",
+      "text_font_size_desktop": 14,
+      "button_letter_spacing": 18,
+      "color_schemes": {
+        "scheme-1": {
+          "settings": {
+            "background": "#ffffff",
+            "text_color": "#5c5c5c",
+            "primary_button_background": "#5c5c5c",
+            "primary_button_text_color": "#ffffff",
+            "circle_button_background": "#ffffff",
+            "circle_button_icon": "#1c1c1c"
+          }
+        },
+        "scheme-2": {
+          "settings": {
+            "background": "#f3f3f3",
+            "text_color": "#5c5c5c",
+            "primary_button_background": "#5c5c5c",
+            "primary_button_text_color": "#ffffff",
+            "circle_button_background": "#ffffff",
+            "circle_button_icon": "#5c5c5c"
+          }
+        },
+        "scheme-3": {
+          "settings": {
+            "background": "#1c1c1c",
+            "text_color": "#ffffff",
+            "primary_button_background": "#ffffff",
+            "primary_button_text_color": "#1c1c1c",
+            "circle_button_background": "#ffffff",
+            "circle_button_icon": "#1c1c1c"
+          }
+        },
+        "scheme-4": {
+          "settings": {
+            "background": "rgba(0,0,0,0)",
+            "text_color": "#ffffff",
+            "primary_button_background": "#ffffff",
+            "primary_button_text_color": "#1c1c1c",
+            "circle_button_background": "#ffffff",
+            "circle_button_icon": "#1c1c1c"
+          }
+        }
+      },
+      "success_color": "#307a07",
+      "warning_color": "#ed8a00",
+      "error_color": "#cb2b2b",
+      "product_rating_color": "#1c1c1c",
+      "product_on_sale_accent": "#e32c2b",
+      "product_sold_out_badge_background": "#efefef",
+      "product_custom_badge_background": "#1c1c1c"
+    },
+    "Vogue": {
+      "section_vertical_spacing": "xs",
+      "heading_font": "jost_n4",
+      "heading_letter_spacing": 18,
+      "text_font": "jost_n4",
+      "text_font_size_desktop": 14,
+      "button_letter_spacing": 18,
+      "color_schemes": {
+        "scheme-1": {
+          "settings": {
+            "background": "#ffffff",
+            "text_color": "#303030",
+            "primary_button_background": "#f5db8b",
+            "primary_button_text_color": "#303030",
+            "circle_button_background": "#1c1c1c",
+            "circle_button_icon": "#f5db8b"
+          }
+        },
+        "scheme-2": {
+          "settings": {
+            "background": "#ffffff",
+            "text_color": "#303030",
+            "primary_button_background": "#f5db8b",
+            "primary_button_text_color": "#303030",
+            "circle_button_background": "#1c1c1c",
+            "circle_button_icon": "#f5db8b"
+          }
+        },
+        "scheme-3": {
+          "settings": {
+            "background": "#1c1c1c",
+            "text_color": "#ffffff",
+            "primary_button_background": "#ffffff",
+            "primary_button_text_color": "#1c1c1c",
+            "circle_button_background": "#ffffff",
+            "circle_button_icon": "#1c1c1c"
+          }
+        },
+        "scheme-4": {
+          "settings": {
+            "background": "rgba(0,0,0,0)",
+            "text_color": "#ffffff",
+            "primary_button_background": "#ffffff",
+            "primary_button_text_color": "#1c1c1c",
+            "circle_button_background": "#ffffff",
+            "circle_button_icon": "#1c1c1c"
+          }
+        }
+      },
+      "success_color": "#307a07",
+      "warning_color": "#ed8a00",
+      "error_color": "#cb2b2b",
+      "product_rating_color": "#1c1c1c",
+      "product_on_sale_accent": "#e32c2b",
+      "product_sold_out_badge_background": "#efefef",
+      "product_custom_badge_background": "#1c1c1c"
+    }
+  }
+}

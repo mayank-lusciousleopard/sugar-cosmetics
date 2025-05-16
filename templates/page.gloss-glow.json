@@ -1,0 +1,150 @@
+{
+  "sections": {
+    "video_LJ7kg6": {
+      "type": "video",
+      "blocks": {
+        "play_WG7LzT": {
+          "type": "play",
+          "settings": {
+            "icon_color": "#ffffff"
+          }
+        },
+        "heading_QcUeiB": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "play_WG7LzT",
+        "heading_QcUeiB"
+      ],
+      "settings": {
+        "autoplay": false,
+        "show_controls": true,
+        "video_size": "md",
+        "video": "shopify:\/\/files\/videos\/SMN-Feedback-3200x1600.mp4",
+        "mobile_video": "shopify:\/\/files\/videos\/SMN-Feedback-3200x1600.mp4",
+        "external_video_url": "",
+        "text_color": "#ffffff"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_title": true,
+        "page_width": "xs"
+      }
+    },
+    "rich_text_NEythD": {
+      "type": "rich-text",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "featured_collections_emfb8j": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_mY3wyG": {
+          "type": "collection",
+          "settings": {
+            "collection": "liquid-lipsticks",
+            "products_count": 8,
+            "title": "LIquid Lipsticks",
+            "link_url": "https:\/\/www.sugarcosmetics.com\/collections\/liquid-lipsticks",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_mY3wyG"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
+    "featured_collections_ekXCge": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_zxnk7f": {
+          "type": "collection",
+          "settings": {
+            "collection": "matte-lipsticks",
+            "products_count": 8,
+            "title": "Matte Lipsticks",
+            "link_url": "shopify:\/\/collections\/matte-lipsticks",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_zxnk7f"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
+    "featured_collections_4MncTN": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_d8qQgx": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "products_count": 8,
+            "title": "Transferproof lipsticks",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_d8qQgx"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    }
+  },
+  "order": [
+    "video_LJ7kg6",
+    "main",
+    "rich_text_NEythD",
+    "featured_collections_emfb8j",
+    "featured_collections_ekXCge",
+    "featured_collections_4MncTN"
+  ]
+}

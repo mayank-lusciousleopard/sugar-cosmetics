@@ -1,0 +1,48 @@
+<span class="st-input-action-btn">
+  <span class="st-autocomplete-close-btn" style="display:none;">Close</span>
+  <svg
+    class="st-search-close-btn"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 24 24"
+    width="10"
+    height="10"
+    style="display: none;"
+  >
+    <path d="M 4.9902344 3.9902344 A 1.0001 1.0001 0 0 0 4.2929688 5.7070312 L 10.585938 12 L 4.2929688 18.292969 A 1.0001 1.0001 0 1 0 5.7070312 19.707031 L 12 13.414062 L 18.292969 19.707031 A 1.0001 1.0001 0 1 0 19.707031 18.292969 L 13.414062 12 L 19.707031 5.7070312 A 1.0001 1.0001 0 0 0 18.980469 3.9902344 A 1.0001 1.0001 0 0 0 18.292969 4.2929688 L 12 10.585938 L 5.7070312 4.2929688 A 1.0001 1.0001 0 0 0 4.9902344 3.9902344 z"></path>
+  </svg>
+</span>
+<style>
+  /*   Style it according to need  */
+    span.st-input-action-btn {
+      position: absolute;
+      right: 16px;
+      top: 16%;
+      cursor: pointer;
+      color: #333;
+    }
+
+  svg.st-search-close-btn {
+    width: 15px;
+    height: 15px;
+    margin-top: 5px;
+
+}
+  @media only screen and (max-width: 768px) {
+    span.st-input-action-btn {
+      top: 21% !important;
+      right: 21px !important;
+    }
+
+    svg.st-search-cross-btn {
+      margin-top: 6px;
+    }
+  }
+  @media only screen and (max-width: 835px) {
+
+  span.st-input-action-btn {
+      top: 14%;
+      right: 8px;
+  }
+
+  }
+</style>
